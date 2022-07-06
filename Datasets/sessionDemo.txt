@@ -1,0 +1,6 @@
+Rahul,20,Hyderabad
+Suma,21,Chennai
+Rashi,27,Banglore
+Krithika,32,Kolkata
+Sravani,22,New Jersey
+Kamra,41,London
