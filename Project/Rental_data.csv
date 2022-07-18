@@ -1,0 +1,2222 @@
+958,Apartment,Entire home/apt,1,1,1,7,170
+3850,House,Private room,1,1,1,5,99
+5858,Apartment,Entire home/apt,1,2,30,9,235
+7918,Apartment,Private room,4,1,32,6,65
+8142,Apartment,Private room,4,1,32,8,65
+8339,House,Entire home/apt,1.5,2,6,3,875
+8739,Condominium,Private room,1,1,1,14,139
+9225,House,Private room,1,1,1,13,135
+10251,House,Entire home/apt,1,2,30,12,225
+10578,Apartment,Entire home/apt,1,0,30,3,120
+10820,Apartment,Entire home/apt,1,3,30,9,177
+10824,Apartment,Entire home/apt,2,3,30,8,194
+10832,Apartment,Entire home/apt,1.5,1,30,14,139
+12041,Apartment,Private room,3,1,32,4,85
+12042,Apartment,Private room,3,1,32,8,85
+12522,Apartment,Private room,1,1,3,13,79
+12584,Townhouse,Entire home/apt,1,2,30,14,122
+14125,Apartment,Entire home/apt,1,1,3,13,215
+17132,Condominium,Entire home/apt,2,2,90,11,450
+18231,Apartment,Entire home/apt,1,0,30,10,107
+18904,Townhouse,Private room,1,1,2,5,110
+21334,Loft,Entire home/apt,1,1,30,14,125
+21914,Apartment,Private room,4,1,32,4,65
+23630,House,Entire home/apt,1,1,3,4,155
+24450,Apartment,Entire home/apt,1,1,3,3,180
+24463,Apartment,Private room,1,1,2,7,155
+24685,Apartment,Private room,1,1,1,11,79
+24723,Guest suite,Entire home/apt,1,1,5,7,195
+25094,House,Private room,1,1,5,4,150
+25463,Townhouse,Private room,1,1,3,10,110
+25662,House,Private room,1,0,4,7,125
+26408,Apartment,Entire home/apt,2,4,2,1,450
+27025,Apartment,Entire home/apt,1,1,30,9,125
+27028,Condominium,Private room,1,1,1,4,199
+29373,House,Entire home/apt,2,2,4,14,220
+29557,Apartment,Entire home/apt,1,1,2,2,155
+32414,Apartment,Entire home/apt,1,1,30,6,150
+33578,House,Entire home/apt,1,1,1,12,240
+39174,Guest suite,Entire home/apt,1,1,30,15,107
+39418,Apartment,Entire home/apt,1,0,60,8,94
+40092,Apartment,Entire home/apt,1,1,30,15,108
+40138,Apartment,Private room,1,1,30,12,67
+41055,House,Entire home/apt,1,1,4,14,159
+41172,House,Private room,2,1,3,1,127
+41399,Apartment,Entire home/apt,1,2,30,8,290
+41423,House,Entire home/apt,1,0,30,6,136
+42403,Apartment,Entire home/apt,1,0,30,7,85
+42408,House,Entire home/apt,1,1,30,7,85
+42454,Apartment,Entire home/apt,1.5,1,10,7,104
+42577,Guest suite,Entire home/apt,1,2,30,4,150
+43778,Guest suite,Entire home/apt,1,2,30,9,110
+44032,Apartment,Entire home/apt,1,1,30,8,95
+44680,Apartment,Entire home/apt,1,1,30,3,175
+45299,Guest suite,Entire home/apt,1,0,3,12,116
+45956,House,Private room,3,1,1,14,125
+47486,House,Entire home/apt,1,2,30,9,78
+47682,Apartment,Entire home/apt,1,1,30,4,120
+51374,Apartment,Entire home/apt,1,2,365,10,9999
+51557,Apartment,Entire home/apt,1,1,30,3,119
+51773,Apartment,Private room,0,1,30,8,55
+53280,House,Private room,1,1,3,5,90
+53934,Apartment,Entire home/apt,1,2,80,13,163
+54518,Condominium,Entire home/apt,1.5,1,30,11,185
+54634,Apartment,Entire home/apt,1,1,30,6,115
+55632,Apartment,Entire home/apt,1,1,30,4,112
+55636,Apartment,Entire home/apt,1,1,30,6,116
+56621,Apartment,Private room,0,1,30,14,55
+56715,Apartment,Entire home/apt,1,2,3,14,187
+57479,Apartment,Entire home/apt,2,2,90,2,200
+57561,Apartment,Entire home/apt,1,1,30,1,175
+57676,Apartment,Private room,1,1,30,9,99
+59344,Guest suite,Entire home/apt,1,1,2,10,135
+59381,Condominium,Private room,2,1,2,13,109
+59702,Cottage,Private room,1,1,30,8,150
+59831,House,Private room,1,1,60,8,100
+60365,House,Entire home/apt,2,3,4,15,475
+62519,Apartment,Private room,1,1,2,3,85
+62651,House,Entire home/apt,2.5,3,3,12,950
+63247,Guest suite,Entire home/apt,1,1,2,6,166
+64165,Apartment,Private room,2,1,30,12,90
+66119,Apartment,Entire home/apt,1,0,30,10,95
+66188,Apartment,Entire home/apt,2,3,30,2,216
+66664,Apartment,Entire home/apt,1,1,30,12,90
+68239,Apartment,Entire home/apt,1,1,30,2,326
+69410,House,Entire home/apt,1,2,30,1,80
+69549,House,Private room,1,1,30,8,46
+69553,House,Private room,1,1,30,8,37
+69681,Apartment,Entire home/apt,2,3,30,2,185
+70139,Apartment,Entire home/apt,1,1,30,3,108
+70284,House,Shared room,2.5,1,30,1,30
+70753,Hostel,Shared room,3,1,1,14,45
+71645,Guest suite,Private room,1,1,3,13,109
+71779,Apartment,Entire home/apt,1,1,30,6,80
+72365,Apartment,Entire home/apt,1,0,30,5,90
+72444,Hostel,Shared room,1,1,1,7,45
+72921,Apartment,Entire home/apt,1,1,30,6,105
+73011,Apartment,Entire home/apt,1,1,30,14,270
+74451,Apartment,Entire home/apt,1,0,30,1,100
+74758,House,Private room,1,1,30,4,37
+75422,House,Private room,1,1,30,4,40
+75423,House,Private room,1,1,30,8,45
+77175,House,Entire home/apt,1,1,3,9,135
+77932,House,Private room,1,1,30,5,57
+78651,Apartment,Private room,2,1,30,15,75
+80394,Apartment,Entire home/apt,1,1,30,4,140
+81158,Condominium,Entire home/apt,1,1,30,12,83
+81256,House,Private room,1,1,30,7,45
+83257,House,Private room,1,1,1,9,90
+83553,Apartment,Entire home/apt,1,0,30,14,85
+84777,Guest suite,Entire home/apt,1,1,5,13,85
+87640,Guest suite,Private room,1,1,2,12,115
+91957,Apartment,Entire home/apt,1.5,2,30,8,201
+96383,Apartment,Private room,0,1,30,3,59
+99094,Apartment,Entire home/apt,1,2,4,4,185
+100710,Apartment,Entire home/apt,2,3,4,8,450
+102951,House,Shared room,2.5,1,30,6,30
+105497,House,Private room,1,1,45,15,85
+106025,Apartment,Entire home/apt,2,2,30,8,130
+109883,Guest suite,Entire home/apt,1,2,2,9,125
+110825,House,Entire home/apt,1,2,30,13,120
+113211,House,Shared room,2.5,1,30,11,30
+114401,Condominium,Private room,1,1,1,9,125
+115242,Condominium,Entire home/apt,1,1,30,12,125
+121065,Apartment,Entire home/apt,1,1,30,15,200
+126046,Apartment,Entire home/apt,1,3,30,11,150
+128230,Apartment,Entire home/apt,1,1,3,11,328
+130775,Apartment,Private room,4,1,32,4,65
+130805,Apartment,Entire home/apt,1,1,30,3,97
+132441,House,Private room,1,1,1,11,69
+134015,Condominium,Entire home/apt,1,2,4,3,300
+134193,House,Entire home/apt,1.5,3,4,12,550
+137129,House,Entire home/apt,3.5,4,7,3,594
+137546,House,Private room,1,1,30,3,102
+137672,Apartment,Entire home/apt,1.5,1,30,8,150
+138592,House,Entire home/apt,2,4,6,8,1200
+138619,Apartment,Entire home/apt,1,1,30,11,150
+138772,House,Private room,1,1,5,2,150
+140568,Apartment,Private room,1.5,1,2,7,90
+142177,Condominium,Entire home/apt,1,2,4,1,399
+144978,Apartment,Private room,null,1,30,11,56
+147443,Apartment,Entire home/apt,1.5,2,30,8,230
+148559,Apartment,Entire home/apt,1,2,5,1,275
+148627,Apartment,Entire home/apt,1,1,60,7,165
+148769,Apartment,Entire home/apt,1,1,30,10,115
+150347,Apartment,Entire home/apt,1,2,30,12,148
+150848,Townhouse,Private room,1,1,3,10,75
+162934,Apartment,Entire home/apt,1,1,1,12,149
+164207,House,Private room,1,1,5,9,69
+166199,Guesthouse,Entire home/apt,1,1,30,3,220
+166771,Apartment,Entire home/apt,1,1,30,3,185
+175090,Apartment,Entire home/apt,1,0,30,11,110
+175102,Apartment,Entire home/apt,1,0,30,8,135
+176274,House,Private room,1,1,30,7,37
+177137,Apartment,Entire home/apt,1,2,30,15,135
+183859,Apartment,Entire home/apt,1,2,3,3,220
+187730,Apartment,Private room,2,1,29,2,75
+189068,Apartment,Private room,1.5,1,2,12,90
+189894,Apartment,Entire home/apt,1,1,5,9,150
+191632,Guest suite,Entire home/apt,1,1,2,13,138
+199480,Apartment,Private room,1.5,1,6,8,80
+201313,Condominium,Entire home/apt,1,1,30,15,182
+201579,Apartment,Entire home/apt,1.5,1,30,14,136
+206566,House,Shared room,2.5,1,30,1,30
+206634,House,Shared room,2.5,1,30,7,30
+206637,House,Shared room,2.5,1,30,7,30
+207980,House,Entire home/apt,1,3,2,15,295
+208727,Apartment,Private room,2.5,1,30,6,79
+208831,Guest suite,Entire home/apt,1,1,3,3,165
+209514,House,Private room,2,1,1,12,92
+212265,Condominium,Entire home/apt,2,2,5,14,178
+212783,House,Private room,2,1,1,15,98
+213532,House,Private room,2,1,1,11,78
+213854,Apartment,Entire home/apt,2,3,30,12,325
+216042,House,Entire home/apt,1,1,5,12,147
+216064,House,Private room,2,1,2,1,75
+217106,Apartment,Entire home/apt,1,0,30,14,110
+220418,House,Private room,2,1,1,12,78
+221342,Condominium,Private room,2.5,1,2,14,139
+224579,House,Entire home/apt,1,1,2,12,145
+225933,Apartment,Private room,1,1,3,3,99
+226594,Apartment,Private room,0.5,1,1,9,120
+229240,Hostel,Shared room,null,1,1,8,45
+229319,Apartment,Entire home/apt,1,1,30,2,135
+231129,Townhouse,Entire home/apt,4,4,2,2,989
+231752,Apartment,Entire home/apt,1,1,30,14,250
+232060,Guest suite,Entire home/apt,1,1,30,3,99
+238190,Condominium,Private room,1,1,2,4,99
+238204,Guest suite,Entire home/apt,1,1,3,3,135
+241235,Hostel,Shared room,0,1,1,15,45
+242008,Apartment,Entire home/apt,1,1,3,7,160
+244361,Apartment,Entire home/apt,1,2,30,3,135
+245339,Condominium,Entire home/apt,1,1,30,11,136
+252867,Condominium,Entire home/apt,1,3,6,11,280
+256148,Condominium,Private room,1,1,1,15,139
+256176,Guest suite,Private room,1,1,2,2,100
+258873,Apartment,Private room,1,1,2,12,89
+259621,Hostel,Shared room,null,1,1,7,45
+259622,Hostel,Shared room,null,1,1,13,45
+259919,Apartment,Entire home/apt,1,1,30,9,114
+261358,Condominium,Entire home/apt,1,0,30,11,138
+269371,Apartment,Private room,1.5,1,2,11,115
+269463,Apartment,Entire home/apt,1,1,2,11,250
+271602,Condominium,Entire home/apt,1,1,30,9,133
+271647,Apartment,Shared room,1.5,1,30,15,35
+273530,Condominium,Entire home/apt,2,2,4,14,325
+274334,House,Private room,1,1,3,4,89
+276072,Apartment,Private room,1,1,2,3,97
+277339,Guest suite,Entire home/apt,1,1,3,5,110
+279184,Apartment,Entire home/apt,2,3,3,1,575
+280549,House,Private room,1.5,3,1,8,250
+284117,Guesthouse,Entire home/apt,1,1,30,11,105
+285499,Condominium,Entire home/apt,2,2,30,6,210
+286311,Condominium,Entire home/apt,2,3,4,12,475
+287907,House,Entire home/apt,2,2,3,10,300
+288213,Apartment,Entire home/apt,1,1,2,10,190
+292723,House,Private room,1,1,30,9,45
+295240,Apartment,Entire home/apt,1,1,2,4,299
+295565,House,Private room,1,1,30,5,30
+306504,Apartment,Entire home/apt,1,1,5,15,225
+307837,House,Entire home/apt,1,1,7,6,159
+308885,Apartment,Entire home/apt,1,1,30,6,125
+314248,House,Entire home/apt,2.5,3,7,14,325
+314368,Condominium,Entire home/apt,1,2,1,6,600
+317121,Apartment,Entire home/apt,1,0,30,1,90
+323635,House,Private room,0.5,1,2,13,48
+325478,Apartment,Entire home/apt,1,2,4,10,365
+326650,Apartment,Entire home/apt,1,1,30,5,139
+329020,Loft,Entire home/apt,1,1,30,5,250
+330535,Apartment,Entire home/apt,1,3,30,12,189
+330736,House,Entire home/apt,1,1,3,12,298
+334339,Cottage,Private room,1,1,3,12,99
+334886,Condominium,Private room,1,1,60,5,165
+338849,Apartment,Private room,1,1,30,9,99
+342420,House,Entire home/apt,2,4,4,5,595
+344621,House,Private room,1,1,1,5,95
+345760,Apartment,Private room,1,1,1,1,119
+348580,Condominium,Entire home/apt,1,1,2,5,160
+348714,Guest suite,Entire home/apt,1,1,3,7,190
+350479,House,Private room,1,1,30,8,83
+351881,Apartment,Private room,1,1,2,7,125
+351950,House,Private room,1,1,30,4,40
+351978,House,Private room,1,1,30,13,45
+352165,Apartment,Entire home/apt,1,1,2,7,115
+353292,Condominium,Private room,1,1,4,6,90
+361230,Apartment,Entire home/apt,1,2,30,12,270
+364023,Apartment,Private room,1,1,30,9,85
+364397,Apartment,Private room,1.5,1,2,11,95
+366541,Apartment,Entire home/apt,2,2,30,6,500
+374997,Apartment,Entire home/apt,1,3,3,5,549
+377452,House,Entire home/apt,1,1,31,1,200
+377569,House,Private room,1,1,3,14,70
+379255,House,Entire home/apt,3.5,4,5,2,672
+379349,Guest suite,Entire home/apt,1,1,3,15,130
+379418,House,Entire home/apt,2.5,3,4,10,390
+381217,House,Private room,1,1,3,15,102
+392543,Guest suite,Entire home/apt,1,1,4,14,250
+394575,Apartment,Entire home/apt,1,0,6,13,149
+400433,Apartment,Entire home/apt,2,2,2,7,355
+408471,House,Entire home/apt,3,3,2,11,700
+409549,Condominium,Entire home/apt,1.5,2,3,4,169
+409560,House,Private room,1.5,1,30,3,60
+413663,Apartment,Entire home/apt,2,2,30,1,189
+415498,Apartment,Entire home/apt,1,1,30,1,130
+420160,Apartment,Private room,1,1,3,3,99
+423063,Condominium,Entire home/apt,1,1,3,15,289
+423300,Guest suite,Entire home/apt,1,1,30,4,119
+424846,House,Private room,1.5,1,2,6,132
+430692,Apartment,Private room,null,1,31,3,68
+431632,Apartment,Entire home/apt,1,1,3,6,140
+431862,Apartment,Entire home/apt,1,null,30,8,124
+435389,House,Shared room,2.5,1,30,3,30
+435390,House,Shared room,2.5,1,30,5,30
+435391,House,Shared room,2.5,1,30,8,30
+437385,Condominium,Private room,2,1,2,4,128
+438940,Apartment,Private room,1.5,1,2,13,116
+438967,Condominium,Private room,1.5,1,1,2,109
+439703,Condominium,Entire home/apt,1.5,4,1,8,350
+442349,Apartment,Entire home/apt,1,1,30,4,250
+442397,House,Entire home/apt,2,2,4,6,324
+444675,Apartment,Entire home/apt,2,3,30,8,190
+450992,Apartment,Entire home/apt,1,1,30,2,110
+455783,Apartment,Private room,1.5,1,30,6,57
+456568,House,Private room,3,1,1,5,89
+457862,House,Entire home/apt,1.5,3,3,14,425
+457986,Condominium,Entire home/apt,2,2,6,14,225
+459990,Serviced apartment,Hotel room,1,0,30,9,148
+465723,Apartment,Entire home/apt,1,1,2,11,160
+467507,Guest suite,Entire home/apt,1,1,3,9,145
+468490,Condominium,Entire home/apt,2.5,4,1,4,490
+468751,Apartment,Entire home/apt,1,2,3,9,280
+470686,Condominium,Private room,1,1,1,12,125
+472901,Apartment,Entire home/apt,1,0,31,7,170
+474001,House,Shared room,2.5,1,30,12,30
+474107,House,Private room,1,3,2,5,90
+479072,Guest suite,Entire home/apt,1,0,1,8,199
+479415,House,Entire home/apt,2,3,3,3,230
+482592,House,Entire home/apt,1.5,4,2,15,675
+485286,Apartment,Entire home/apt,1,2,2,8,195
+487019,Apartment,Entire home/apt,2,3,4,4,205
+487499,Apartment,Entire home/apt,1,1,30,8,125
+488297,Condominium,Private room,2,3,3,8,399
+491867,Condominium,Entire home/apt,2,3,3,9,375
+491874,Condominium,Private room,1,1,3,1,130
+493889,Apartment,Entire home/apt,1,1,4,13,225
+494111,Apartment,Entire home/apt,1,1,3,8,130
+496226,Apartment,Entire home/apt,1,1,30,5,170
+499096,Apartment,Entire home/apt,1,1,3,3,100
+501057,House,Entire home/apt,1.5,2,3,9,295
+501770,Apartment,Entire home/apt,1,1,30,10,220
+503362,Apartment,Entire home/apt,2,2,30,8,350
+504146,Condominium,Entire home/apt,1,0,2,8,280
+505530,House,Entire home/apt,2,4,30,11,275
+505763,Apartment,Entire home/apt,1,1,365,14,200
+515260,House,Entire home/apt,1,2,3,1,260
+515524,Apartment,Entire home/apt,1,1,30,15,90
+516836,House,Private room,2,1,3,6,135
+517803,Bungalow,Entire home/apt,1.5,2,5,15,550
+519796,Apartment,Entire home/apt,1,1,31,3,126
+522089,Apartment,Entire home/apt,1,3,3,4,495
+522273,Apartment,Private room,1.5,1,30,3,70
+527226,House,Private room,1,1,30,2,95
+530857,House,Private room,1.5,1,7,4,100
+531151,House,Entire home/apt,2.5,4,4,6,449
+533193,House,Private room,1,1,30,3,43
+533627,House,Entire home/apt,3,3,4,8,650
+545585,Apartment,Private room,1,1,30,4,140
+545685,Guest suite,Entire home/apt,1,1,1,9,79
+548232,Condominium,Entire home/apt,1,3,4,3,1195
+555596,Guest suite,Entire home/apt,1,1,5,12,129
+560440,Apartment,Entire home/apt,1,2,5,1,220
+561148,House,Entire home/apt,2,3,3,13,450
+561602,House,Private room,1,2,4,13,105
+562311,Apartment,Private room,2,2,4,5,103
+562593,Apartment,Entire home/apt,1,1,4,12,200
+567239,House,Private room,1,1,2,6,95
+568161,House,Private room,1,1,2,2,68
+571042,Townhouse,Entire home/apt,2.5,3,4,15,460
+575551,Apartment,Private room,1,1,3,5,129
+576018,House,Entire home/apt,2.5,4,2,7,1000
+578097,Condominium,Entire home/apt,1,2,3,15,280
+580106,Apartment,Private room,1,1,2,5,93
+581216,Apartment,Entire home/apt,1,3,3,4,139
+582335,House,Entire home/apt,3.5,4,4,10,1049
+585225,Apartment,Entire home/apt,1,1,2,5,99
+585326,Guest suite,Entire home/apt,1,1,1,2,69
+587375,House,Entire home/apt,1,2,2,7,400
+589676,House,Private room,1,1,2,15,105
+589767,Apartment,Entire home/apt,1,2,5,6,295
+591524,House,Entire home/apt,1,1,3,11,195
+592883,House,Private room,1,1,30,9,98
+593165,Apartment,Entire home/apt,1,1,30,2,121
+593253,Condominium,Private room,1.5,1,2,7,95
+596042,Apartment,Private room,null,1,30,6,63
+598271,House,Private room,2,1,3,10,125
+598579,Apartment,Entire home/apt,1,1,30,10,105
+602036,Condominium,Entire home/apt,1,3,30,6,350
+602535,House,Entire home/apt,2,3,5,6,975
+604221,Apartment,Entire home/apt,1,2,30,13,100
+604843,Apartment,Private room,1.5,1,31,1,72
+604999,Apartment,Shared room,1,1,30,2,79
+607500,House,Entire home/apt,2.5,3,3,2,375
+616204,Apartment,Entire home/apt,1,3,7,2,450
+616517,Loft,Entire home/apt,1,1,30,6,279
+626349,Condominium,Entire home/apt,1,1,30,13,123
+627358,Apartment,Private room,1,1,30,5,125
+631635,Condominium,Entire home/apt,1,1,30,9,201
+631658,House,Private room,2,2,3,11,280
+631735,House,Private room,1,1,31,11,50
+632303,Apartment,Entire home/apt,1,1,30,12,95
+633629,Apartment,Private room,1,1,30,11,79
+640352,Loft,Entire home/apt,1,1,1,11,975
+640605,Apartment,Entire home/apt,1,1,30,3,145
+640895,Apartment,Entire home/apt,1.5,4,4,5,500
+642672,Apartment,Entire home/apt,1,1,60,1,178
+643918,Apartment,Private room,1,1,30,9,130
+644091,Condominium,Entire home/apt,1,1,3,9,350
+647360,Apartment,Entire home/apt,1,1,1,12,250
+648086,House,Private room,1,1,3,15,79
+651624,House,Private room,1,1,2,14,85
+654279,House,Private room,1,1,3,8,90
+654860,House,Entire home/apt,3.5,5,30,2,475
+655326,Apartment,Entire home/apt,2,2,30,3,199
+657121,Condominium,Entire home/apt,2.5,3,2,9,949
+662754,Apartment,Entire home/apt,1.5,2,9,2,282
+663623,Apartment,Entire home/apt,1.5,2,4,3,240
+664307,Guest suite,Private room,1,1,2,14,85
+664315,House,Entire home/apt,2,3,7,12,450
+677207,House,Entire home/apt,3,3,3,4,395
+678556,Apartment,Entire home/apt,1,1,3,6,135
+680288,Guest suite,Entire home/apt,1,1,2,11,150
+686677,Apartment,Shared room,1.5,1,30,3,67
+687430,House,Private room,3,1,30,8,35
+691023,House,Entire home/apt,2.5,3,4,12,450
+699723,Apartment,Entire home/apt,2,2,4,11,395
+713877,Guest suite,Entire home/apt,1,1,1,11,145
+715543,Loft,Entire home/apt,1.5,2,30,6,180
+715754,Condominium,Entire home/apt,1,1,30,11,160
+719431,Guest suite,Entire home/apt,1,1,4,9,79
+720811,Apartment,Entire home/apt,1,1,3,14,135
+725300,House,Private room,2,2,30,13,379
+726657,Condominium,Entire home/apt,2,2,4,11,322
+727866,Guest suite,Entire home/apt,1,1,1,7,153
+727969,Apartment,Entire home/apt,1,1,30,12,170
+728486,Loft,Entire home/apt,1.5,1,30,15,175
+728585,Guest suite,Entire home/apt,1,1,3,12,139
+728884,House,Entire home/apt,1,2,30,2,275
+732779,House,Entire home/apt,2,3,5,14,520
+734801,Loft,Entire home/apt,1,1,30,9,162
+734839,Apartment,Entire home/apt,1,2,30,1,185
+738493,Apartment,Private room,0.5,1,2,1,178
+738547,Apartment,Entire home/apt,1,2,3,6,395
+741327,Apartment,Entire home/apt,1,1,30,3,123
+746079,Condominium,Private room,1.5,1,1,7,115
+748222,Apartment,Private room,1,1,1,7,120
+748256,Apartment,Private room,1,1,1,10,120
+749744,Condominium,Entire home/apt,1,1,30,10,175
+749990,Apartment,Entire home/apt,1,1,30,1,225
+752607,House,Entire home/apt,1,3,3,14,350
+754117,Apartment,Entire home/apt,1,1,30,12,152
+758815,Apartment,Entire home/apt,1,1,30,9,135
+760794,House,Entire home/apt,1.5,2,14,15,250
+765914,Loft,Entire home/apt,1.5,1,7,2,399
+766516,House,Entire home/apt,1,2,30,5,144
+767506,House,Entire home/apt,2,3,2,7,410
+769734,Cottage,Private room,1,1,2,10,80
+770991,Guest suite,Entire home/apt,1,1,3,10,139
+774323,Condominium,Private room,1,1,2,13,140
+776239,House,Entire home/apt,2,3,4,9,645
+778520,Apartment,Private room,1,1,4,7,129
+779109,Townhouse,Private room,1,1,1,1,160
+781945,Apartment,Entire home/apt,2,2,183,15,250
+782126,House,Private room,1.5,1,1,15,50
+783135,Apartment,Entire home/apt,1,1,5,7,160
+783821,Apartment,Entire home/apt,1,1,30,12,250
+785901,Hostel,Shared room,null,1,1,12,45
+786492,Hostel,Shared room,null,1,1,9,45
+786506,Hostel,Shared room,null,1,1,8,45
+794626,Apartment,Entire home/apt,1,1,2,2,120
+795254,Guest suite,Entire home/apt,1,1,3,15,150
+797887,Apartment,Private room,1,1,30,1,57
+802559,Bungalow,Entire home/apt,1,2,4,12,180
+802839,Apartment,Entire home/apt,1,3,3,9,300
+806199,Loft,Entire home/apt,1.5,1,3,13,325
+808660,Apartment,Entire home/apt,1,2,30,2,130
+808919,Condominium,Private room,1.5,1,3,5,110
+810315,Apartment,Private room,1,1,30,11,70
+811374,Apartment,Entire home/apt,1,1,30,15,105
+815183,Bungalow,Private room,1,1,30,7,40
+819856,Condominium,Entire home/apt,2,2,30,10,289
+819863,Apartment,Entire home/apt,1,1,1,4,135
+829185,House,Entire home/apt,1.5,2,3,1,699
+830330,Apartment,Entire home/apt,1,1,3,5,135
+830576,Apartment,Entire home/apt,1,1,200,2,175
+830997,Apartment,Entire home/apt,1,1,30,1,200
+833149,Bungalow,Entire home/apt,1,1,30,3,125
+837045,Apartment,Entire home/apt,1,2,2,4,249
+837490,Apartment,Private room,1,2,31,11,300
+840986,Apartment,Entire home/apt,1,1,2,15,145
+842269,House,Shared room,2.5,1,30,8,30
+845480,House,Private room,1.5,3,3,11,70
+845501,House,Private room,2,3,3,14,65
+845502,House,Entire home/apt,1.5,2,7,1,875
+848578,House,Private room,1,1,3,3,70
+851889,Loft,Entire home/apt,1,1,3,15,300
+856123,Condominium,Private room,1,1,1,11,168
+859310,Apartment,Private room,1,1,31,7,135
+859336,Apartment,Private room,1,1,2,10,109
+862201,Apartment,Entire home/apt,1,0,30,4,179
+863987,Condominium,Entire home/apt,1,1,30,5,141
+865873,Apartment,Entire home/apt,1,2,30,2,375
+867499,House,Private room,1.5,1,4,1,150
+867530,Guesthouse,Entire home/apt,1,0,30,8,95
+867555,Townhouse,Entire home/apt,1.5,2,5,14,549
+870532,Apartment,Entire home/apt,1,2,30,2,145
+870705,Apartment,Entire home/apt,2,2,3,5,360
+872206,House,Private room,6.5,1,32,10,64
+872246,Apartment,Entire home/apt,2,2,180,15,205
+873705,House,Entire home/apt,2,4,2,4,425
+878935,Apartment,Entire home/apt,1,2,30,8,190
+881105,Apartment,Entire home/apt,1.5,1,3,2,475
+883937,Apartment,Entire home/apt,1,1,4,10,175
+884770,Apartment,Private room,1,1,1,15,123
+890875,Apartment,Entire home/apt,1,2,2,5,269
+900393,Condominium,Entire home/apt,1,2,30,8,295
+900569,Guest suite,Private room,1,1,30,6,79
+900941,Apartment,Entire home/apt,1,1,90,8,545
+902377,Apartment,Private room,1,1,30,4,55
+902435,Condominium,Entire home/apt,1,1,30,3,199
+905399,Apartment,Private room,1,1,5,4,85
+905902,Apartment,Entire home/apt,1,2,30,8,185
+909063,Apartment,Private room,1,1,4,2,93
+911029,Condominium,Entire home/apt,2,2,30,3,150
+915058,House,Entire home/apt,2,4,2,11,859
+918341,House,Entire home/apt,1,1,1,15,240
+923807,Apartment,Private room,3,1,30,3,57
+929468,Loft,Entire home/apt,1,1,5,3,175
+930955,Condominium,Entire home/apt,2,3,30,5,400
+931313,Apartment,Entire home/apt,1,1,30,13,101
+932481,House,Entire home/apt,2.5,3,5,12,990
+934012,Apartment,Entire home/apt,1,1,30,3,115
+936209,Apartment,Private room,0,1,2,3,250
+937842,Apartment,Private room,1.5,1,1,3,100
+938330,Apartment,Entire home/apt,1,1,30,6,130
+943851,Apartment,Entire home/apt,1.5,2,30,7,136
+945748,Apartment,Entire home/apt,1,1,2,3,275
+950094,House,Private room,1,1,30,5,79
+955071,Apartment,Private room,1,1,30,12,55
+958507,House,Entire home/apt,1,3,31,7,220
+961900,Loft,Entire home/apt,2,1,30,12,179
+964751,Guest suite,Entire home/apt,1,1,30,6,140
+964952,Condominium,Entire home/apt,2,3,5,2,600
+968046,Condominium,Private room,1,1,2,8,105
+968308,Condominium,Private room,1,1,30,6,175
+968852,Apartment,Entire home/apt,1,1,1,6,360
+971069,Apartment,Private room,1,1,30,11,99
+971116,House,Private room,1,1,2,5,115
+975482,Serviced apartment,Hotel room,2,2,30,6,300
+980783,Apartment,Entire home/apt,1,1,30,4,181
+982298,House,Entire home/apt,2,4,3,11,495
+983739,Townhouse,Private room,1,1,30,1,75
+991765,House,Entire home/apt,2,3,4,7,250
+992676,Guest suite,Entire home/apt,1,1,1,12,135
+992913,Apartment,Private room,1,1,2,4,79
+997382,House,Private room,2,1,1,4,53
+1001415,Apartment,Entire home/apt,1,1,4,3,325
+1001422,Apartment,Entire home/apt,1,1,31,3,200
+1001759,Apartment,Private room,1,1,30,7,99
+1003756,Condominium,Entire home/apt,1.5,2,3,1,272
+1005642,Apartment,Private room,1,1,2,13,115
+1007157,House,Entire home/apt,1,4,30,10,230
+1011292,House,Entire home/apt,2,2,120,4,250
+1011751,House,Private room,3,1,2,14,50
+1015336,House,Entire home/apt,2,3,30,6,775
+1016604,House,Entire home/apt,2,3,4,5,399
+1017799,Apartment,Private room,1,1,1,4,75
+1018426,Loft,Shared room,1,1,30,13,311
+1023586,Apartment,Private room,1,1,1,8,65
+1029621,Condominium,Entire home/apt,1.5,2,3,14,310
+1030352,Apartment,Entire home/apt,1,2,30,13,259
+1031899,Apartment,Entire home/apt,null,1,30,9,127
+1033754,House,Entire home/apt,2,3,1,8,300
+1036860,Apartment,Entire home/apt,1,2,2,3,298
+1037251,Apartment,Entire home/apt,1,1,30,2,140
+1038324,Apartment,Private room,1.5,1,30,2,93
+1043282,House,Private room,1,1,1,13,111
+1053666,Guest suite,Entire home/apt,1,1,31,1,180
+1056006,Condominium,Entire home/apt,2,3,30,15,255
+1056844,Loft,Shared room,1.5,1,2,11,74
+1059961,Apartment,Shared room,1,1,58,4,5000
+1069167,Guest suite,Private room,1,1,1,10,76
+1076743,Condominium,Entire home/apt,1,2,2,5,575
+1077444,Bed and breakfast,Private room,1,1,2,3,120
+1080408,House,Private room,1,1,1,5,90
+1080980,Loft,Entire home/apt,2,2,1,14,595
+1083810,House,Private room,2,1,3,2,188
+1084068,Loft,Entire home/apt,1.5,1,365,4,180
+1087427,House,Private room,1,1,7,10,68
+1094207,Apartment,Entire home/apt,1,1,30,1,100
+1098003,House,Entire home/apt,3,3,3,2,500
+1103797,Apartment,Entire home/apt,2,3,2,7,500
+1104362,Guest suite,Entire home/apt,1,1,30,7,192
+1104912,Apartment,Entire home/apt,1,1,2,3,159
+1106534,Guesthouse,Entire home/apt,1,2,30,15,250
+1107014,House,Entire home/apt,3,4,2,8,950
+1109534,Condominium,Entire home/apt,2,3,2,14,500
+1110001,House,Entire home/apt,1,1,30,2,175
+1110346,Condominium,Private room,1,1,2,11,128
+1110787,Apartment,Entire home/apt,1,1,30,5,149
+1117813,House,Entire home/apt,1,2,30,2,150
+1121697,Apartment,Entire home/apt,1.5,5,30,3,500
+1123125,House,Private room,1.5,1,2,12,120
+1125079,House,Private room,3,1,2,2,45
+1125115,House,Private room,3,1,2,9,40
+1130628,Apartment,Private room,1,1,30,12,79
+1133372,Condominium,Entire home/apt,1,3,2,11,138
+1135632,Apartment,Private room,1,1,3,1,150
+1138420,Apartment,Entire home/apt,1,1,30,9,225
+1140449,Apartment,Private room,1,1,31,6,120
+1141986,Apartment,Entire home/apt,1,1,360,10,90
+1142101,House,Entire home/apt,2,3,7,6,290
+1145582,Apartment,Entire home/apt,2,2,50,1,140
+1148625,Condominium,Private room,1.5,1,3,8,125
+1151109,House,Entire home/apt,2,2,30,13,799
+1151864,Apartment,Entire home/apt,2,2,180,5,185
+1159284,Condominium,Entire home/apt,1,1,30,10,290
+1162640,House,Entire home/apt,2,3,30,5,149
+1171918,Loft,Entire home/apt,2,2,2,4,245
+1174214,Townhouse,Private room,1,1,2,11,395
+1174537,Townhouse,Entire home/apt,1,2,30,14,300
+1174758,Apartment,Entire home/apt,1,2,30,4,300
+1177310,Guesthouse,Entire home/apt,1,1,30,4,120
+1178260,Apartment,Entire home/apt,1.5,2,30,15,160
+1178281,Condominium,Entire home/apt,1,2,3,10,275
+1182465,Apartment,Entire home/apt,1,2,2,9,99
+1183521,Apartment,Private room,2,1,2,3,100
+1195173,Apartment,Private room,1,1,30,7,70
+1200068,House,Private room,1,1,30,2,60
+1201159,Condominium,Entire home/apt,1,0,30,7,75
+1203062,Apartment,Entire home/apt,1,2,3,7,225
+1203172,Guest suite,Private room,1,1,3,1,143
+1203526,Apartment,Private room,1.5,1,1,13,99
+1203684,Apartment,Private room,1,1,1,14,118
+1203849,Condominium,Entire home/apt,1,1,2,11,250
+1205031,Loft,Private room,1,1,30,13,120
+1206032,Apartment,Entire home/apt,1,2,30,3,125
+1206184,Apartment,Private room,1.5,1,1,7,89
+1206233,Apartment,Private room,null,1,1,6,79
+1206261,Apartment,Private room,1.5,1,1,10,99
+1209893,Apartment,Entire home/apt,1.5,3,2,7,1500
+1212513,Apartment,Private room,1,2,2,11,175
+1212746,Apartment,Entire home/apt,2,3,3,2,625
+1212822,Condominium,Entire home/apt,2,3,60,7,510
+1214080,House,Entire home/apt,2,2,3,1,345
+1223107,Condominium,Private room,1,1,3,1,148
+1223704,House,Entire home/apt,1,2,29,10,186
+1226557,Apartment,Entire home/apt,1,1,180,6,217
+1226596,House,Private room,1,1,3,3,89
+1229606,Apartment,Entire home/apt,1,1,31,1,104
+1237143,Apartment,Entire home/apt,1,2,7,15,442
+1241029,Condominium,Private room,1,1,60,5,165
+1245838,Apartment,Entire home/apt,2,4,3,2,450
+1247160,Apartment,Private room,1,1,30,2,50
+1249046,Condominium,Entire home/apt,1,0,30,8,110
+1251570,Condominium,Entire home/apt,1,2,2,4,430
+1261055,Loft,Entire home/apt,1.5,1,50,2,180
+1261074,Condominium,Private room,1,1,3,2,130
+1261122,Guest suite,Entire home/apt,1,1,3,15,130
+1267206,Apartment,Private room,1,1,3,14,75
+1276953,Apartment,Entire home/apt,1,2,5,10,295
+1277771,Apartment,Entire home/apt,1,2,3,2,190
+1281132,Guest suite,Entire home/apt,1,1,2,6,115
+1281167,Hostel,Private room,1,0,1,13,180
+1286943,House,Entire home/apt,1,2,2,9,200
+1287889,House,Entire home/apt,1,2,5,6,300
+1290935,House,Entire home/apt,2,2,4,3,249
+1291092,House,Entire home/apt,2.5,3,2,2,1800
+1292217,Apartment,Entire home/apt,2,2,30,8,216
+1299242,Apartment,Entire home/apt,2,3,365,1,200
+1301798,Apartment,Private room,1,1,3,1,89
+1301843,Apartment,Entire home/apt,2,2,30,5,195
+1304068,Apartment,Entire home/apt,2,3,3,15,425
+1304808,Apartment,Entire home/apt,1,1,30,7,210
+1309496,Condominium,Entire home/apt,2,3,3,13,280
+1317908,Apartment,Private room,1.5,1,3,15,95
+1323983,Apartment,Private room,1,1,1,6,119
+1324086,Condominium,Entire home/apt,1,2,4,13,495
+1326577,Guest suite,Entire home/apt,1,1,3,10,125
+1328186,House,Entire home/apt,2.5,3,7,1,575
+1329465,Loft,Entire home/apt,1,1,30,2,200
+1332343,House,Private room,1,1,3,12,152
+1333047,House,Private room,1,1,1,11,119
+1335996,Apartment,Private room,1,2,2,13,76
+1336798,Condominium,Entire home/apt,2.5,4,30,7,450
+1336998,Apartment,Private room,1.5,1,2,4,90
+1340755,Apartment,Private room,2,1,3,9,145
+1344243,Apartment,Entire home/apt,1,1,5,3,175
+1344752,Condominium,Entire home/apt,2,3,30,14,210
+1351626,House,Private room,1,1,30,12,52
+1351783,House,Private room,1,1,30,15,47
+1352111,Apartment,Entire home/apt,1,1,30,5,150
+1355744,House,Entire home/apt,1.5,1,30,14,155
+1356129,Guest suite,Entire home/apt,1,1,2,5,145
+1356817,Loft,Private room,1,1,2,5,159
+1364882,Apartment,Entire home/apt,1,1,30,10,299
+1388523,Apartment,Entire home/apt,1,0,30,2,125
+1391982,Condominium,Entire home/apt,2,4,6,15,500
+1392204,House,Private room,1,2,3,3,129
+1393654,House,Private room,1,1,1,7,99
+1397537,Townhouse,Entire home/apt,1.5,3,5,12,250
+1405046,House,Entire home/apt,2.5,3,6,6,350
+1407244,House,Entire home/apt,2,3,2,12,500
+1407881,Apartment,Entire home/apt,1,0,30,6,160
+1408281,Apartment,Shared room,1,1,1,6,75
+1409218,Loft,Entire home/apt,2,2,30,15,185
+1421671,Apartment,Entire home/apt,1,0,1,4,246
+1421774,Guest suite,Entire home/apt,1,1,3,8,135
+1421937,House,Private room,1,1,3,2,129
+1428465,Apartment,Entire home/apt,1,1,30,6,199
+1428553,Apartment,Private room,1,1,30,7,89
+1428909,Loft,Entire home/apt,1,1,30,5,142
+1429022,House,Entire home/apt,1,1,3,13,469
+1433011,Apartment,Entire home/apt,1,1,2,14,120
+1433917,Apartment,Entire home/apt,1,1,30,8,175
+1434314,House,Entire home/apt,2,3,3,1,490
+1434425,Apartment,Private room,1,1,4,9,150
+1437321,Apartment,Private room,1.5,1,2,12,165
+1438286,Apartment,Entire home/apt,1,1,30,1,95
+1438864,House,Private room,1,1,3,11,274
+1442027,Condominium,Entire home/apt,1,1,30,13,131
+1454220,Apartment,Entire home/apt,1,1,30,13,157
+1455937,House,Private room,1.5,1,1,7,60
+1456153,House,Entire home/apt,1,3,4,7,259
+1460174,Condominium,Entire home/apt,2,3,3,15,575
+1460628,Guest suite,Entire home/apt,1,1,2,8,170
+1466344,Serviced apartment,Entire home/apt,1,1,30,3,173
+1467857,Apartment,Entire home/apt,1,1,30,8,140
+1470340,Guest suite,Entire home/apt,1,1,3,7,88
+1471683,Apartment,Private room,1.5,2,3,9,125
+1474209,Hostel,Private room,1,0,1,13,175
+1478708,House,Private room,1,1,2,10,85
+1479666,Apartment,Entire home/apt,1,3,30,2,258
+1480015,Apartment,Entire home/apt,1,1,3,9,265
+1482273,Condominium,Entire home/apt,2,2,30,14,345
+1482730,Apartment,Entire home/apt,1,2,4,15,199
+1483853,Hotel,Private room,1,0,2,7,179
+1484792,House,Entire home/apt,1,1,30,9,250
+1487849,Guest suite,Entire home/apt,1,1,2,15,167
+1489175,House,Entire home/apt,2,3,3,3,295
+1489782,Apartment,Entire home/apt,1,2,2,3,300
+1494771,Apartment,Entire home/apt,1,2,30,3,170
+1496833,Apartment,Entire home/apt,1,2,30,3,249
+1498953,House,Entire home/apt,1,2,3,4,337
+1499630,Apartment,Entire home/apt,2,2,3,7,300
+1499843,Apartment,Private room,1,1,1,12,185
+1504826,House,Entire home/apt,2,4,3,7,250
+1506702,Condominium,Entire home/apt,1.5,3,1,5,499
+1510363,Apartment,Entire home/apt,1,2,3,12,150
+1511076,Apartment,Private room,1,1,2,1,145
+1520790,Apartment,Entire home/apt,1,1,3,15,250
+1520929,Apartment,Entire home/apt,1,2,2,15,250
+1520938,Apartment,Entire home/apt,1,2,30,10,149
+1524346,Apartment,Entire home/apt,1,1,30,15,165
+1525137,Apartment,Entire home/apt,1,1,30,14,210
+1525886,Apartment,Private room,1,1,1,6,125
+1530745,Apartment,Entire home/apt,1,1,30,4,145
+1531273,House,Entire home/apt,1,1,30,8,235
+1534021,Apartment,Entire home/apt,1,1,30,13,148
+1535946,House,Entire home/apt,1,2,2,2,350
+1537497,Apartment,Entire home/apt,1,1,30,5,125
+1547477,Apartment,Entire home/apt,1,0,30,13,100
+1550913,Guest suite,Entire home/apt,1,1,5,6,199
+1556680,Guest suite,Entire home/apt,1,2,30,9,145
+1565576,Condominium,Entire home/apt,2,1,30,6,150
+1569288,House,Entire home/apt,2.5,4,30,15,800
+1578597,Guest suite,Entire home/apt,1,0,31,3,209
+1579304,House,Entire home/apt,2.5,3,4,14,485
+1584021,Apartment,Entire home/apt,1,2,30,6,395
+1587410,Condominium,Entire home/apt,1,2,6,4,180
+1588695,House,Entire home/apt,1,1,30,2,120
+1589228,Apartment,Entire home/apt,2,3,30,13,350
+1598872,Condominium,Entire home/apt,1,1,7,15,220
+1605483,Apartment,Private room,1.5,1,2,3,89
+1606292,Apartment,Entire home/apt,1,0,30,2,116
+1614453,Hotel,Private room,1,0,2,6,169
+1614622,House,Private room,1,1,1,4,295
+1615088,House,Private room,1,1,2,8,99
+1615158,House,Private room,1,1,1,12,85
+1618782,House,Private room,1,1,2,15,195
+1620039,Hotel,Private room,1,0,1,13,175
+1620411,Guest suite,Entire home/apt,1,0,3,7,200
+1623609,House,Private room,1,1,3,7,150
+1624068,Hotel,Private room,1,0,2,11,169
+1627259,Apartment,Private room,1,1,30,5,166
+1627455,Apartment,Private room,1,1,30,1,129
+1629330,Apartment,Entire home/apt,1,1,30,4,200
+1629740,Hotel,Private room,1,0,1,14,169
+1633126,Apartment,Entire home/apt,1,1,3,6,139
+1633173,House,Private room,1,1,1,3,65
+1633225,House,Private room,1,1,1,1,61
+1633839,Apartment,Entire home/apt,1,2,2,11,118
+1633933,Apartment,Private room,1,1,2,7,139
+1641060,Guest suite,Entire home/apt,1,2,3,1,225
+1645724,Townhouse,Private room,1,1,180,8,29
+1651228,House,Private room,1,2,2,8,230
+1655446,House,Private room,2.5,4,4,7,539
+1665516,Guest suite,Entire home/apt,1,1,3,2,150
+1671260,House,Private room,1,1,2,10,95
+1673011,House,Entire home/apt,2.5,3,3,4,525
+1676460,Apartment,Entire home/apt,1,0,30,15,141
+1683892,Condominium,Entire home/apt,1,1,3,12,285
+1684346,Hotel,Private room,1,0,1,10,179
+1687330,Apartment,Entire home/apt,1,2,1,8,190
+1696383,Apartment,Entire home/apt,1,1,30,1,155
+1696666,Condominium,Entire home/apt,2,4,30,2,1000
+1699390,House,Private room,2.5,1,2,11,105
+1711075,Apartment,Private room,1,4,59,10,65
+1721354,Apartment,Entire home/apt,1,2,2,10,418
+1724819,House,Entire home/apt,2,2,3,11,373
+1725833,Apartment,Entire home/apt,2,2,30,15,325
+1725853,Apartment,Entire home/apt,1,1,2,12,133
+1728497,House,Entire home/apt,3.5,4,6,2,750
+1733056,Apartment,Entire home/apt,2.5,2,4,6,290
+1738415,Apartment,Entire home/apt,1.5,1,1,7,180
+1740537,Apartment,Entire home/apt,1.5,2,30,15,165
+1743201,Condominium,Private room,1.5,1,2,8,90
+1747531,Apartment,Private room,1,1,30,10,60
+1750093,Townhouse,Private room,1.5,1,2,11,115
+1752371,Guest suite,Entire home/apt,1,1,2,5,155
+1752535,House,Entire home/apt,1,2,60,2,215
+1759087,Guest suite,Entire home/apt,1,1,2,8,215
+1767569,Apartment,Entire home/apt,1,1,3,7,175
+1768239,Condominium,Entire home/apt,1,1,30,8,160
+1768673,Condominium,Entire home/apt,1,1,30,3,200
+1769688,Condominium,Private room,1,1,3,3,109
+1774026,Apartment,Entire home/apt,1.5,4,3,4,418
+1777429,House,Entire home/apt,3,5,6,8,1450
+1778650,Guest suite,Entire home/apt,1,1,1,11,133
+1785463,House,Private room,3,1,2,14,45
+1807012,Apartment,Private room,1,1,3,6,170
+1807493,Condominium,Entire home/apt,1,1,30,8,170
+1810486,Apartment,Entire home/apt,1,2,3,3,285
+1814061,Guest suite,Entire home/apt,1,1,30,13,150
+1815551,Apartment,Entire home/apt,1,1,2,15,250
+1821543,Apartment,Entire home/apt,1,1,30,11,150
+1827177,Apartment,Private room,1,1,1,7,70
+1827638,Apartment,Entire home/apt,1,1,31,11,225
+1827653,House,Private room,1,1,30,11,115
+1830541,Guest suite,Entire home/apt,1,1,3,11,135
+1841832,Apartment,Entire home/apt,1,1,30,4,89
+1843662,Apartment,Entire home/apt,1,2,30,15,135
+1844117,Apartment,Private room,3,1,30,2,60
+1844877,Apartment,Entire home/apt,1,1,30,6,110
+1847664,Guest suite,Entire home/apt,1,1,4,15,128
+1855096,Apartment,Entire home/apt,1,1,2,12,190
+1857226,House,Entire home/apt,3,3,3,2,600
+1861344,Serviced apartment,Entire home/apt,1,1,30,13,220
+1863106,Apartment,Private room,1,1,3,8,79
+1863316,Apartment,Private room,1,1,3,4,75
+1864390,Apartment,Entire home/apt,2,2,30,13,145
+1865406,Apartment,Entire home/apt,1,0,30,3,94
+1868880,House,Entire home/apt,3.5,4,3,9,995
+1869027,House,Entire home/apt,1,2,70,5,250
+1869845,Apartment,Entire home/apt,1,1,30,8,295
+1881223,Apartment,Private room,1,1,3,10,80
+1885057,Apartment,Entire home/apt,1,1,30,9,157
+1886260,Loft,Entire home/apt,1,1,30,9,300
+1887206,House,Entire home/apt,1,2,30,14,131
+1898486,House,Entire home/apt,1.5,2,30,12,228
+1906323,House,Entire home/apt,3.5,4,4,2,900
+1906681,House,Entire home/apt,2,3,4,2,309
+1907229,House,Entire home/apt,2.5,3,1,4,450
+1909613,Apartment,Entire home/apt,1,2,3,5,299
+1913043,Condominium,Private room,1,1,30,9,115
+1914841,Apartment,Entire home/apt,1,0,30,10,156
+1919372,Apartment,Entire home/apt,1,0,30,11,125
+1920033,House,Private room,1,1,1,13,120
+1925206,House,Private room,1,1,1,9,94
+1925714,Apartment,Entire home/apt,1,1,30,9,180
+1926253,Guest suite,Entire home/apt,1,1,2,11,80
+1931459,Apartment,Entire home/apt,1,1,30,6,350
+1931763,Guest suite,Private room,1,1,1,12,150
+1931788,Apartment,Private room,1,1,2,1,135
+1932019,Guesthouse,Entire home/apt,1,1,2,15,95
+1935904,Apartment,Entire home/apt,2,2,4,4,1166
+1937575,Apartment,Private room,1,1,3,2,160
+1940496,Apartment,Private room,1,1,3,8,100
+1944564,Loft,Entire home/apt,1,1,2,12,169
+1945508,Condominium,Private room,1,1,3,11,150
+1954514,Condominium,Private room,1,1,3,9,165
+1959880,Apartment,Private room,1,1,1,5,95
+1960773,House,Entire home/apt,3,3,5,12,499
+1970257,Condominium,Entire home/apt,1,3,5,12,339
+1970756,Apartment,Entire home/apt,1,1,30,5,99
+1975404,Condominium,Entire home/apt,1,1,2,8,325
+1978669,Apartment,Private room,1,1,30,6,95
+1979461,Condominium,Entire home/apt,1,0,30,1,152
+1984709,Apartment,Entire home/apt,1,0,30,14,125
+1985338,House,Private room,1,1,3,11,140
+1989997,Apartment,Private room,1,1,1,1,102
+1992217,House,Private room,1,1,2,6,132
+1992988,Apartment,Entire home/apt,1,1,60,5,125
+1995487,Loft,Private room,1,2,2,11,297
+1998111,House,Private room,1,1,2,13,69
+2001534,Apartment,Entire home/apt,2,3,30,3,200
+2007101,Condominium,Entire home/apt,1,1,4,4,600
+2011311,Townhouse,Entire home/apt,1,1,3,7,160
+2016198,House,Private room,1,1,1,2,84
+2020393,Apartment,Entire home/apt,1,1,5,1,197
+2022751,Apartment,Entire home/apt,2,2,3,8,800
+2023326,House,Entire home/apt,1.5,3,3,9,450
+2026910,Apartment,Entire home/apt,1,3,5,10,550
+2042095,House,Private room,1,1,1,13,119
+2046634,House,Private room,1,1,2,9,69
+2046807,Guest suite,Entire home/apt,1,1,5,8,149
+2047469,House,Private room,1,1,2,14,69
+2049672,House,Entire home/apt,2,4,5,7,575
+2049955,House,Entire home/apt,1,1,3,14,225
+2056660,Apartment,Entire home/apt,1,0,60,1,82
+2058119,Apartment,Private room,1,1,30,2,100
+2062696,Apartment,Private room,1,1,5,13,85
+2063077,House,Entire home/apt,1,2,6,13,195
+2072098,Apartment,Entire home/apt,1,1,30,6,160
+2072133,House,Private room,1,1,30,7,95
+2074270,Apartment,Entire home/apt,1,0,30,7,129
+2074584,Guesthouse,Entire home/apt,1,0,30,2,90
+2081536,Townhouse,Private room,1,1,3,3,65
+2088622,House,Private room,1,1,2,12,69
+2093695,House,Private room,1,1,30,11,65
+2096756,House,Entire home/apt,1,2,3,5,228
+2104437,Apartment,Private room,1,1,30,5,120
+2105840,Serviced apartment,Private room,1,1,30,1,95
+2111361,Condominium,Entire home/apt,1,0,30,8,150
+2112336,Condominium,Private room,1,1,30,10,100
+2115503,Guest suite,Entire home/apt,1,0,2,15,176
+2119773,Guest suite,Entire home/apt,1,1,1,3,130
+2123469,House,Private room,1,1,2,12,125
+2124182,Guesthouse,Entire home/apt,1,1,30,13,120
+2126868,House,Private room,3,1,2,15,40
+2130640,Apartment,Entire home/apt,2,3,2,10,350
+2134475,House,Private room,1.5,1,2,2,150
+2139562,House,Private room,1,2,4,10,195
+2140313,Apartment,Entire home/apt,1,1,30,7,150
+2154122,House,Entire home/apt,2,3,3,13,450
+2160504,House,Private room,1,1,2,15,90
+2166428,Apartment,Entire home/apt,1,1,30,2,198
+2169208,Apartment,Entire home/apt,1,1,30,3,98
+2172308,House,Entire home/apt,2,3,2,7,462
+2175930,Apartment,Entire home/apt,1,1,1,6,150
+2177440,House,Private room,1,1,3,2,120
+2178509,House,Private room,1,1,2,7,105
+2188233,Serviced apartment,Entire home/apt,1,0,30,12,160
+2188308,Serviced apartment,Entire home/apt,2,2,30,5,175
+2188507,Serviced apartment,Entire home/apt,1,0,30,3,140
+2188561,House,Entire home/apt,2,5,3,14,449
+2188959,Apartment,Entire home/apt,1,0,30,15,112
+2188976,House,Private room,2,1,30,13,101
+2189514,Apartment,Entire home/apt,1,1,30,15,220
+2189814,Apartment,Entire home/apt,1,2,4,10,900
+2202505,House,Entire home/apt,2,2,3,1,399
+2203283,Condominium,Private room,1,1,1,13,65
+2209353,Serviced apartment,Entire home/apt,1,1,30,11,179
+2209751,Condominium,Private room,1,1,2,9,129
+2210105,House,Private room,1,1,2,10,500
+2219978,Apartment,Private room,1.5,1,31,9,225
+2221057,House,Entire home/apt,1,2,4,2,175
+2223743,Guest suite,Entire home/apt,1,1,2,10,110
+2233416,Apartment,Entire home/apt,1,1,30,13,195
+2234256,Apartment,Entire home/apt,1,1,90,12,130
+2236226,Apartment,Entire home/apt,1,1,30,12,105
+2238488,Apartment,Entire home/apt,1,2,31,5,279
+2244652,Apartment,Entire home/apt,1,1,30,15,90
+2254431,House,Entire home/apt,3.5,4,1,7,398
+2263794,House,Private room,1,1,2,3,99
+2272343,House,Entire home/apt,1.5,3,3,5,500
+2274353,Apartment,Entire home/apt,1,2,2,11,137
+2277754,Condominium,Private room,1,1,3,11,105
+2279254,Apartment,Private room,1,1,1,7,219
+2290365,Condominium,Private room,1,1,30,15,85
+2298930,Apartment,Private room,1.5,1,1,4,200
+2299196,Apartment,Entire home/apt,1,0,30,14,105
+2302408,Apartment,Entire home/apt,1,1,30,10,105
+2305039,Apartment,Entire home/apt,1,3,30,7,350
+2310518,House,Private room,1,2,2,8,350
+2310765,Condominium,Entire home/apt,1,0,30,1,149
+2311428,Apartment,Entire home/apt,2,1,2,2,250
+2314849,Apartment,Entire home/apt,1,0,30,8,93
+2315086,Apartment,Private room,1.5,1,3,13,145
+2316478,House,Entire home/apt,1,2,30,3,139
+2326228,House,Entire home/apt,1.5,2,30,15,220
+2337552,Condominium,Entire home/apt,1,2,30,13,170
+2349483,House,Private room,1,1,2,5,130
+2355859,Guest suite,Entire home/apt,1,1,4,7,280
+2356554,Guest suite,Entire home/apt,1,1,2,7,125
+2362619,Apartment,Entire home/apt,1,1,3,11,185
+2366182,Apartment,Entire home/apt,2,4,30,1,385
+2371573,House,Entire home/apt,3.5,4,5,9,2000
+2374267,House,Entire home/apt,2.5,4,3,6,2100
+2374361,Guest suite,Entire home/apt,1,1,30,8,113
+2387068,Condominium,Private room,2.5,1,3,8,80
+2391772,Loft,Entire home/apt,1,1,30,1,136
+2396847,Apartment,Entire home/apt,1,0,3,15,125
+2397852,Guest suite,Entire home/apt,2,2,2,1,306
+2397858,House,Entire home/apt,3,4,2,9,889
+2404647,Apartment,Private room,1,1,30,10,89
+2412158,Guest suite,Entire home/apt,1,1,30,5,220
+2420887,Guest suite,Entire home/apt,1.5,0,4,2,143
+2423948,Serviced apartment,Hotel room,1,1,30,11,179
+2432104,House,Private room,1,1,30,15,60
+2436213,House,Private room,1,1,30,13,78
+2455313,House,Entire home/apt,2,3,3,13,325
+2455325,House,Entire home/apt,2,2,30,10,295
+2460904,Condominium,Entire home/apt,1,1,30,5,150
+2465543,Guest suite,Entire home/apt,2,2,30,9,99
+2468125,Apartment,Private room,1,1,1,10,219
+2469485,Apartment,Entire home/apt,1.5,1,30,9,200
+2471457,Apartment,Private room,1,1,2,5,200
+2477409,Apartment,Entire home/apt,1,1,30,8,112
+2477787,House,Entire home/apt,2.5,4,4,10,800
+2478558,Apartment,Private room,1,1,1,1,219
+2482884,House,Private room,1,1,3,14,80
+2483759,Condominium,Private room,1,1,1,14,95
+2486953,House,Entire home/apt,1,1,3,4,279
+2488520,Loft,Shared room,1.5,1,30,1,200
+2488837,Apartment,Entire home/apt,1,2,31,8,140
+2496086,House,Entire home/apt,1,2,3,13,185
+2496460,House,Entire home/apt,1.5,3,5,15,182
+2496719,Condominium,Entire home/apt,1,1,30,9,125
+2499257,House,Entire home/apt,3,3,30,5,333
+2500662,House,Entire home/apt,2,3,30,8,265
+2502368,House,Private room,1,1,3,3,105
+2502543,House,Entire home/apt,1,2,7,1,215
+2503408,Apartment,Entire home/apt,1,1,30,2,195
+2509236,House,Private room,1,1,14,14,65
+2510224,Apartment,Private room,1.5,1,30,12,80
+2516026,House,Entire home/apt,3.5,3,3,2,695
+2518781,House,Private room,1,1,3,4,164
+2521327,House,Entire home/apt,1,1,30,2,92
+2532756,House,Private room,1,1,30,8,75
+2538807,Guest suite,Entire home/apt,1,1,4,14,69
+2539953,House,Entire home/apt,2,5,2,9,650
+2550991,Guest suite,Entire home/apt,1,0,30,4,135
+2551994,Apartment,Entire home/apt,1,1,30,6,198
+2557977,Apartment,Private room,1,1,3,5,105
+2559297,Condominium,Entire home/apt,1,2,2,13,235
+2564006,Apartment,Entire home/apt,1,0,30,9,122
+2564140,Apartment,Entire home/apt,1,1,30,2,157
+2578122,Apartment,Private room,1,1,4,3,88
+2592518,House,Entire home/apt,1,2,2,11,333
+2614717,House,Private room,1,1,2,10,98
+2620371,Apartment,Entire home/apt,1,1,30,5,140
+2629833,Apartment,Entire home/apt,1,3,30,13,232
+2636716,Apartment,Entire home/apt,1,0,30,7,140
+2645189,Apartment,Entire home/apt,1,1,30,14,126
+2658295,Hotel,Private room,1,1,1,4,299
+2665028,Loft,Entire home/apt,1.5,1,16,8,180
+2670951,Condominium,Entire home/apt,2,3,30,10,395
+2677273,Guest suite,Entire home/apt,1,1,2,8,180
+2677288,Condominium,Private room,1,1,1,14,99
+2683409,Condominium,Entire home/apt,1.5,2,2,10,545
+2683857,House,Entire home/apt,2,3,4,12,280
+2686530,Apartment,Private room,1,1,7,12,94
+2694526,House,Private room,1,1,2,5,125
+2702606,Apartment,Entire home/apt,0.5,1,30,15,194
+2706776,House,Private room,1,1,4,2,188
+2707422,Apartment,Entire home/apt,1,1,4,13,184
+2710372,Townhouse,Entire home/apt,1,2,30,8,199
+2723005,Apartment,Entire home/apt,2,3,3,9,820
+2736358,House,Entire home/apt,1,1,2,15,185
+2737894,Apartment,Private room,1.5,1,2,3,80
+2738331,Apartment,Entire home/apt,1,1,30,5,99
+2739477,House,Entire home/apt,3,3,2,15,425
+2742151,Guest suite,Entire home/apt,1,2,3,2,240
+2747383,Guest suite,Entire home/apt,1,2,2,1,295
+2770268,House,Private room,1,1,2,8,100
+2770561,House,Private room,1,1,2,11,80
+2771128,Guest suite,Entire home/apt,1,0,3,11,220
+2771688,Apartment,Entire home/apt,1,2,30,9,120
+2783251,Guest suite,Entire home/apt,1,1,4,1,185
+2790637,House,Entire home/apt,1,1,5,3,225
+2802418,Apartment,Private room,2,1,2,8,109
+2802480,Apartment,Entire home/apt,1,2,30,15,229
+2804417,Apartment,Entire home/apt,1,1,30,1,230
+2816626,Apartment,Entire home/apt,2,3,3,5,350
+2823227,Townhouse,Entire home/apt,2,1,30,1,195
+2824612,Condominium,Entire home/apt,2,3,31,12,275
+2825966,Townhouse,Entire home/apt,1,1,30,15,169
+2890120,House,Entire home/apt,1,2,1,7,275
+2893920,Apartment,Private room,1.5,1,75,15,222
+2904128,Bungalow,Entire home/apt,1,2,7,5,160
+2925557,Apartment,Entire home/apt,1,2,30,10,300
+2926901,Hotel,Private room,1,0,2,7,179
+2927781,Townhouse,Private room,1.5,1,2,3,189
+2933105,Apartment,Private room,1.5,1,2,6,110
+2933899,Hotel,Private room,1,0,1,2,180
+2935400,Apartment,Entire home/apt,1,1,30,8,97
+2937902,Hotel,Private room,1,0,1,7,180
+2939849,Apartment,Private room,1,1,30,13,99
+2942149,House,Entire home/apt,1,3,3,4,400
+2943327,Hotel,Private room,1,0,1,7,180
+2944266,Apartment,Entire home/apt,2,2,2,10,225
+2944843,House,Private room,1,1,1,13,90
+2948159,Apartment,Entire home/apt,2,2,3,15,285
+2949071,Apartment,Entire home/apt,1,2,30,12,150
+2950592,House,Entire home/apt,2,3,4,11,450
+2956406,House,Private room,1,1,3,3,115
+2959323,Hostel,Private room,1,0,1,9,180
+2960229,Hotel,Private room,1,0,1,12,180
+2965433,Apartment,Entire home/apt,1.5,2,3,14,293
+2968738,Apartment,Entire home/apt,1,2,2,15,599
+2970161,Condominium,Entire home/apt,2,2,14,7,287
+2970253,Apartment,Entire home/apt,1,1,30,1,125
+2980184,Apartment,Entire home/apt,1,2,30,1,250
+2984463,House,Private room,1,1,1,10,150
+2994606,Guest suite,Private room,1,0,1,5,99
+3013427,Condominium,Private room,1,1,30,14,200
+3013520,Apartment,Entire home/apt,1,0,30,9,55
+3015450,House,Private room,0.5,1,2,4,87
+3028924,House,Private room,1,1,3,2,125
+3029597,Apartment,Private room,1,1,1,6,99
+3030653,Guest suite,Entire home/apt,1,1,2,15,140
+3031766,House,Entire home/apt,2,4,4,4,530
+3042811,Apartment,Entire home/apt,1,1,6,3,200
+3043102,House,Entire home/apt,1,2,30,11,130
+3053443,House,Private room,1.5,1,1,9,95
+3068285,Condominium,Entire home/apt,1,0,30,2,117
+3073038,Condominium,Private room,1,1,3,7,145
+3079665,Apartment,Private room,1,2,30,11,145
+3079929,House,Entire home/apt,1,2,3,4,375
+3081324,House,Entire home/apt,2,3,3,2,450
+3081560,House,Private room,1,1,2,1,150
+3082327,House,Private room,1,1,3,12,90
+3084671,Condominium,Entire home/apt,2,3,3,12,295
+3093070,House,Private room,1,2,2,5,299
+3093543,Condominium,Private room,1,1,7,5,105
+3102139,House,Entire home/apt,2.5,3,3,11,650
+3105361,Condominium,Entire home/apt,2,2,3,12,275
+3105998,Apartment,Entire home/apt,1,1,4,3,225
+3112427,Apartment,Entire home/apt,1,0,2,14,125
+3116428,Condominium,Entire home/apt,1,2,4,15,200
+3116974,Apartment,Entire home/apt,1,2,30,3,185
+3122882,Apartment,Private room,1,1,2,15,140
+3123536,House,Entire home/apt,1,2,2,7,275
+3124541,Condominium,Private room,1,1,2,1,145
+3133266,Apartment,Entire home/apt,1.5,3,30,12,280
+3140113,House,Entire home/apt,1,2,2,4,195
+3157463,House,Entire home/apt,2,2,7,11,400
+3157541,Apartment,Private room,1,1,2,3,125
+3168359,Guest suite,Entire home/apt,1,1,3,3,139
+3175769,House,Entire home/apt,2,3,30,4,350
+3176619,Condominium,Entire home/apt,2,3,7,1,750
+3183280,Loft,Entire home/apt,2,1,30,13,375
+3200340,Loft,Private room,1.5,1,30,4,75
+3200431,Condominium,Private room,1,1,30,6,500
+3201044,House,Entire home/apt,2,3,3,4,600
+3205059,Apartment,Entire home/apt,1,1,31,3,145
+3218306,Apartment,Private room,1,1,2,4,126
+3221082,Apartment,Entire home/apt,2,3,30,15,279
+3230459,Apartment,Entire home/apt,1,0,3,6,145
+3240016,Apartment,Entire home/apt,1,1,30,7,115
+3246879,Condominium,Entire home/apt,1,1,30,5,158
+3250486,Condominium,Private room,1,1,6,2,146
+3256704,Apartment,Entire home/apt,1.5,3,30,8,263
+3257979,House,Private room,1,1,2,14,53
+3261876,Apartment,Private room,1.5,1,3,8,159
+3262216,House,Entire home/apt,2,3,3,13,360
+3263219,House,Entire home/apt,1,2,4,8,240
+3271517,House,Private room,1,1,3,13,125
+3280443,Condominium,Entire home/apt,1,1,4,15,450
+3290739,House,Private room,1,1,1,7,119
+3292643,Apartment,Entire home/apt,1,2,3,4,245
+3309722,Guest suite,Entire home/apt,1,1,2,7,200
+3311711,Apartment,Private room,1.5,1,2,6,155
+3312490,Apartment,Entire home/apt,1,1,3,6,155
+3319159,Apartment,Entire home/apt,1,1,30,6,110
+3319447,Apartment,Entire home/apt,1,0,2,7,195
+3325741,Guest suite,Private room,1,1,1,13,129
+3326640,Apartment,Entire home/apt,1,2,14,4,250
+3333870,House,Private room,1,1,2,3,150
+3333937,Apartment,Entire home/apt,1,1,30,14,138
+3343629,House,Entire home/apt,2,3,30,6,217
+3344631,Apartment,Entire home/apt,1,2,30,3,110
+3354004,Apartment,Private room,1,1,30,3,70
+3354928,Condominium,Entire home/apt,1,2,30,14,350
+3355334,Serviced apartment,Private room,1,1,2,6,150
+3376512,House,Entire home/apt,2,2,3,11,250
+3376895,House,Private room,1,1,1,6,79
+3377936,Condominium,Entire home/apt,1,2,30,11,148
+3384413,Condominium,Entire home/apt,1,2,2,15,327
+3385880,Apartment,Entire home/apt,1,2,2,7,375
+3391368,Guest suite,Entire home/apt,1,0,4,12,125
+3394127,Condominium,Entire home/apt,1,1,2,5,169
+3395051,Apartment,Entire home/apt,3,2,5,5,900
+3415171,Apartment,Entire home/apt,1,1,30,14,115
+3416013,House,Private room,1,1,1,4,133
+3433930,Condominium,Private room,1,1,4,12,96
+3441517,House,Entire home/apt,1,1,3,15,150
+3441949,Condominium,Entire home/apt,1,2,7,1,194
+3442439,Guest suite,Entire home/apt,1,1,2,6,100
+3469254,Apartment,Entire home/apt,2,1,30,5,100
+3475515,Townhouse,Entire home/apt,1,2,30,6,179
+3476601,Apartment,Entire home/apt,1,1,30,6,148
+3479568,Apartment,Entire home/apt,1.5,2,3,5,375
+3482655,Apartment,Entire home/apt,1,1,30,13,155
+3486460,House,Private room,1,1,1,4,133
+3506164,Guesthouse,Entire home/apt,1,1,3,1,175
+3512817,Condominium,Private room,1,1,7,4,80
+3519611,House,Entire home/apt,1.5,3,3,2,675
+3520817,House,Entire home/apt,3.5,3,30,7,850
+3522990,House,Entire home/apt,1,2,1,8,300
+3532347,Townhouse,Entire home/apt,2.5,3,30,12,304
+3534282,Apartment,Private room,1,1,3,14,119
+3549398,Apartment,Private room,1,1,1,9,99
+3563261,Apartment,Entire home/apt,1,1,30,13,185
+3565068,Apartment,Entire home/apt,2,3,4,9,400
+3585034,Condominium,Entire home/apt,1.5,2,3,7,200
+3591813,Apartment,Entire home/apt,1.5,2,30,1,300
+3594786,Condominium,Private room,2,2,2,6,250
+3611131,Apartment,Entire home/apt,1,1,30,7,199
+3612236,Apartment,Private room,1,1,1,9,110
+3613500,House,Private room,1,2,3,14,425
+3630122,House,Entire home/apt,1,3,5,6,675
+3655811,Townhouse,Entire home/apt,1,1,30,6,148
+3656251,House,Private room,1,1,1,15,72
+3664261,Apartment,Entire home/apt,1,2,2,1,229
+3664693,Apartment,Entire home/apt,1,0,30,10,86
+3672198,Apartment,Entire home/apt,1,1,30,7,180
+3689368,House,Entire home/apt,1,2,1,9,224
+3697738,Apartment,Entire home/apt,1.5,3,30,14,280
+3712976,Apartment,Entire home/apt,1,2,30,15,178
+3716504,Apartment,Private room,1,1,5,5,95
+3718865,Apartment,Entire home/apt,1,1,4,2,117
+3719923,Apartment,Private room,1,1,3,5,78
+3720392,Guest suite,Entire home/apt,1,1,3,8,141
+3721927,Guest suite,Entire home/apt,1,1,4,15,199
+3727061,Apartment,Entire home/apt,2,3,30,14,425
+3743219,Apartment,Entire home/apt,1,1,30,13,120
+3757966,Apartment,Entire home/apt,1,1,30,1,200
+3759246,Guest suite,Entire home/apt,1,1,1,15,99
+3759368,Guest suite,Entire home/apt,1,0,3,3,165
+3761446,Condominium,Entire home/apt,2,3,2,7,1250
+3767907,Condominium,Entire home/apt,2,2,30,2,230
+3775090,Apartment,Entire home/apt,1,0,30,1,122
+3780418,Guest suite,Entire home/apt,1,0,2,10,170
+3791003,House,Entire home/apt,2.5,4,2,14,375
+3792754,Condominium,Entire home/apt,1,2,3,4,300
+3793678,Guest suite,Entire home/apt,1,1,5,10,164
+3793831,Condominium,Entire home/apt,1,1,2,15,199
+3808193,Apartment,Entire home/apt,1,1,30,7,295
+3811916,House,Private room,1,1,3,1,130
+3812931,Apartment,Entire home/apt,1,1,30,10,129
+3832296,Apartment,Entire home/apt,1,1,3,3,150
+3844037,House,Entire home/apt,1,2,30,3,99
+3852803,House,Entire home/apt,2,3,30,11,265
+3862478,Apartment,Entire home/apt,2,2,31,15,445
+3870174,House,Private room,1,1,2,1,99
+3877462,Guest suite,Entire home/apt,1,1,3,4,85
+3883252,House,Entire home/apt,1,1,3,12,165
+3889219,Apartment,Entire home/apt,1.5,2,3,9,495
+3890704,Apartment,Entire home/apt,3,2,30,11,180
+3895335,Condominium,Private room,1,1,30,9,90
+3895951,Apartment,Entire home/apt,1,1,30,9,165
+3924524,Apartment,Private room,1,0,30,14,95
+3944915,Apartment,Entire home/apt,1,2,30,5,135
+3946571,House,Private room,1,1,2,9,120
+3962831,Townhouse,Entire home/apt,1,2,2,9,595
+3994686,Apartment,Entire home/apt,1,2,3,13,450
+4013746,Apartment,Entire home/apt,1,0,2,7,150
+4014209,Apartment,Entire home/apt,1,1,90,3,117
+4015985,Apartment,Private room,1,1,30,11,147
+4022209,Hotel,Private room,1,1,1,4,109
+4022990,Hotel,Private room,1,1,1,6,129
+4023249,House,Entire home/apt,1,3,4,13,500
+4023585,Apartment,Entire home/apt,2,3,30,6,225
+4026354,House,Entire home/apt,1,2,1,3,209
+4033038,House,Entire home/apt,3.5,4,2,14,1500
+4037590,Condominium,Entire home/apt,2,3,30,2,550
+4052091,Townhouse,Private room,1,1,3,10,175
+4059549,Hotel,Private room,1,1,1,5,129
+4069838,Guest suite,Entire home/apt,1,2,2,15,155
+4069917,House,Entire home/apt,1,1,4,15,225
+4074316,Apartment,Entire home/apt,1,1,5,9,210
+4075971,House,Entire home/apt,1.5,2,30,4,275
+4077186,Apartment,Entire home/apt,1,2,30,1,150
+4093013,Condominium,Entire home/apt,2,2,1,4,1200
+4093807,House,Private room,1,1,2,9,119
+4093967,House,Private room,2,1,3,1,139
+4097700,Guest suite,Entire home/apt,1,1,4,1,220
+4100473,Apartment,Entire home/apt,1,1,30,2,170
+4104344,Townhouse,Private room,1,1,2,13,123
+4105892,House,Private room,2,1,3,14,139
+4105958,House,Private room,1,1,2,15,140
+4106442,Apartment,Entire home/apt,1,1,30,9,120
+4110344,Hotel,Private room,1,1,1,11,99
+4111104,House,Entire home/apt,2,3,3,6,249
+4121114,Apartment,Private room,1.5,1,30,3,145
+4121691,House,Entire home/apt,1,2,2,4,110
+4122671,Condominium,Private room,1,1,4,4,110
+4135201,Townhouse,Private room,1,1,2,5,119
+4145563,Apartment,Entire home/apt,1,1,30,10,141
+4152054,Apartment,Entire home/apt,1,1,30,11,220
+4157192,Guest suite,Entire home/apt,1,1,30,5,150
+4157431,Apartment,Entire home/apt,1,1,30,3,135
+4175174,Apartment,Entire home/apt,2,2,3,14,250
+4175303,Apartment,Entire home/apt,1.5,1,4,6,80
+4183088,Townhouse,Entire home/apt,2.5,3,2,1,1100
+4184406,Apartment,Private room,1,1,4,12,99
+4191242,Apartment,Entire home/apt,1,1,30,3,135
+4199015,Apartment,Entire home/apt,1,1,3,7,195
+4215907,Guest suite,Entire home/apt,1,1,3,4,115
+4226601,Apartment,Entire home/apt,1,1,5,10,128
+4227441,Guest suite,Private room,1,1,2,2,90
+4242823,Condominium,Entire home/apt,2,2,30,12,255
+4243837,Cottage,Entire home/apt,1,1,3,8,225
+4250927,Apartment,Entire home/apt,2,2,30,14,240
+4252808,House,Entire home/apt,1,1,2,10,150
+4257302,Guest suite,Entire home/apt,1,1,30,7,100
+4259418,Guest suite,Entire home/apt,1,1,30,15,100
+4263821,House,Private room,1,1,1,1,75
+4269254,Guest suite,Entire home/apt,1,1,3,2,150
+4277696,House,Private room,1,1,4,10,175
+4280408,Apartment,Private room,1,1,2,9,160
+4287481,Apartment,Entire home/apt,1,1,2,9,175
+4305042,Guest suite,Entire home/apt,1,1,3,2,199
+4319230,Apartment,Entire home/apt,1,1,30,10,75
+4321720,Condominium,Private room,1,1,3,3,199
+4330861,House,Entire home/apt,1,2,2,9,280
+4334560,Apartment,Entire home/apt,1,1,30,14,170
+4343283,House,Entire home/apt,1,1,3,2,139
+4358868,House,Entire home/apt,2,3,2,13,550
+4359078,Hotel,Private room,1,1,1,1,129
+4359626,House,Entire home/apt,1.5,1,4,4,155
+4365969,Guest suite,Entire home/apt,1,0,3,14,125
+4372435,Apartment,Entire home/apt,1,1,3,5,135
+4387067,House,Private room,1,1,1,10,139
+4392441,Apartment,Entire home/apt,1,0,30,6,134
+4402199,House,Private room,1,1,3,14,199
+4416566,Apartment,Entire home/apt,1,1,30,12,150
+4417901,Bed and breakfast,Private room,0,1,1,9,95
+4418649,House,Private room,1,1,1,5,120
+4422501,House,Entire home/apt,2.5,3,2,14,1250
+4429475,House,Entire home/apt,2.5,3,2,10,360
+4429527,House,Entire home/apt,1,1,2,4,130
+4430996,Bed and breakfast,Private room,0,1,1,13,95
+4439461,House,Private room,1,1,1,14,139
+4445540,Guest suite,Entire home/apt,1,1,30,12,130
+4446003,House,Private room,1,1,2,10,175
+4461197,Apartment,Entire home/apt,1,1,30,6,110
+4462326,Apartment,Private room,1.5,1,30,1,105
+4463165,Apartment,Private room,1,1,30,2,155
+4463263,Apartment,Private room,2.5,4,30,10,369
+4464347,Bed and breakfast,Shared room,10,1,1,15,38
+4470873,Apartment,Entire home/apt,1,2,2,8,225
+4471474,House,Entire home/apt,1,2,30,1,200
+4476390,Apartment,Entire home/apt,1,1,31,1,100
+4483550,Apartment,Entire home/apt,1,2,2,9,299
+4493744,Condominium,Private room,1,1,4,2,65
+4500244,Apartment,Entire home/apt,1,1,30,15,180
+4510968,Apartment,Entire home/apt,1,1,1,13,120
+4517932,Apartment,Entire home/apt,1,1,2,7,350
+4518031,Bed and breakfast,Shared room,10,1,1,10,38
+4519757,Bed and breakfast,Shared room,10,1,1,2,38
+4519780,Bed and breakfast,Shared room,0,1,1,7,38
+4526608,Guest suite,Entire home/apt,1,1,2,10,95
+4527553,Apartment,Entire home/apt,1.5,2,30,13,290
+4532551,Guest suite,Entire home/apt,1,1,3,2,259
+4533440,Apartment,Private room,1,1,3,3,100
+4533652,Apartment,Entire home/apt,1,2,2,6,139
+4549330,Apartment,Entire home/apt,1,2,1,1,195
+4549485,Apartment,Entire home/apt,1,1,5,9,170
+4550843,Apartment,Entire home/apt,1,1,30,9,99
+4558566,Apartment,Entire home/apt,2,3,3,9,300
+4558898,Apartment,Private room,1,1,1,3,176
+4566275,House,Entire home/apt,2,2,2,10,250
+4575906,Apartment,Private room,1,1,30,8,60
+4576349,Apartment,Private room,1,1,30,6,90
+4577224,Guest suite,Private room,1,1,2,4,93
+4594018,Apartment,Entire home/apt,2,2,180,5,500
+4597675,Apartment,Private room,1,1,30,9,97
+4603953,House,Entire home/apt,1,1,1,6,175
+4607177,Apartment,Entire home/apt,1,0,30,3,215
+4607282,House,Entire home/apt,1.5,2,2,8,300
+4614763,Guest suite,Entire home/apt,1,1,3,4,175
+4616040,Apartment,Entire home/apt,1,0,30,9,99
+4616596,Apartment,Entire home/apt,1,1,4,5,290
+4617719,Apartment,Entire home/apt,1,2,2,8,139
+4621762,Apartment,Entire home/apt,1,2,30,6,150
+4624467,Apartment,Private room,1.5,2,4,1,169
+4631873,Hotel,Hotel room,1,1,1,14,99
+4632133,Hotel,Private room,1,1,1,15,109
+4638176,Apartment,Entire home/apt,2.5,3,365,4,296
+4638266,Apartment,Private room,1,1,1,6,150
+4638678,Boutique hotel,Private room,1,1,1,11,110
+4639434,Apartment,Private room,1,1,3,1,120
+4650391,House,Private room,1,1,2,12,95
+4653022,House,Private room,1.5,1,1,14,62
+4653332,Apartment,Entire home/apt,1,1,110,15,220
+4654218,House,Private room,1.5,1,13,11,59
+4654737,Apartment,Entire home/apt,1.5,2,30,15,350
+4663060,Guest suite,Entire home/apt,1,1,1,9,140
+4663132,House,Entire home/apt,2.5,3,3,15,575
+4668872,Apartment,Entire home/apt,1,1,30,11,99
+4670847,Bed and breakfast,Shared room,10,1,1,9,38
+4677343,House,Private room,2,2,30,3,135
+4678599,House,Entire home/apt,2,3,4,12,545
+4695477,Guest suite,Entire home/apt,1,1,2,3,139
+4701489,Condominium,Entire home/apt,1,0,1,9,249
+4710280,Guest suite,Entire home/apt,1,1,30,7,119
+4716964,Apartment,Entire home/apt,2,2,30,10,107
+4718531,House,Private room,1,1,2,11,110
+4718629,Guest suite,Private room,1,1,2,6,100
+4718898,Apartment,Entire home/apt,1,1,30,3,230
+4719139,Condominium,Entire home/apt,1,1,30,13,301
+4720512,House,Private room,3,1,1,10,99
+4728615,Apartment,Private room,1,1,1,5,89
+4748287,House,Private room,1,1,30,8,88
+4760192,House,Entire home/apt,3,4,4,11,350
+4773944,Apartment,Entire home/apt,1,1,3,5,250
+4774742,House,Private room,1,1,1,2,62
+4782281,Apartment,Entire home/apt,1,2,2,7,180
+4794816,House,Entire home/apt,2,3,2,1,439
+4807817,House,Entire home/apt,1,1,30,7,150
+4808522,House,Private room,1,1,7,7,155
+4825026,House,Private room,1,1,30,8,64
+4825217,Apartment,Entire home/apt,1,1,2,13,224
+4832436,Apartment,Entire home/apt,1,1,3,2,250
+4833101,House,Private room,1,1,2,9,120
+4838843,Apartment,Entire home/apt,1.5,2,4,3,550
+4841027,House,Private room,1,1,2,11,105
+4855194,Apartment,Private room,1.5,1,30,5,100
+4855686,House,Entire home/apt,1,2,3,2,250
+4856290,Condominium,Private room,1.5,2,30,3,250
+4863182,Apartment,Entire home/apt,1,1,30,13,124
+4867594,Apartment,Entire home/apt,1,3,90,2,170
+4875549,House,Private room,1,1,1,11,145
+4880695,House,Entire home/apt,1,5,2,9,450
+4880988,Apartment,Entire home/apt,2,2,30,7,126
+4882295,House,Private room,1,1,4,3,89
+4887475,Bed and breakfast,Private room,1,1,1,8,83
+4887587,Bed and breakfast,Private room,0,1,1,7,83
+4888308,Apartment,Entire home/apt,1,2,2,15,250
+4890230,Bed and breakfast,Shared room,10,1,1,14,38
+4892016,Hotel,Private room,1,1,1,11,169
+4896087,Apartment,Entire home/apt,1,1,30,13,105
+4897143,Bed and breakfast,Shared room,10,1,1,10,38
+4897595,Townhouse,Private room,1,1,30,10,85
+4902063,Apartment,Private room,1,1,1,5,89
+4902365,Bed and breakfast,Shared room,10,1,1,1,38
+4902444,Bed and breakfast,Shared room,10,1,1,6,38
+4902565,Apartment,Private room,0.5,1,1,12,125
+4902729,Apartment,Private room,1,1,1,5,115
+4902855,Apartment,Private room,1,1,1,12,99
+4902907,Apartment,Private room,1,1,1,5,115
+4907924,House,Private room,1,1,30,6,125
+4909117,Apartment,Private room,1,1,1,5,129
+4921641,House,Private room,1.5,1,30,14,75
+4936887,Guest suite,Entire home/apt,1,2,2,6,325
+4949779,House,Private room,1,1,60,6,125
+4956697,Apartment,Entire home/apt,1,2,2,14,140
+4957143,Guest suite,Entire home/apt,1,1,3,3,225
+4959980,Guest suite,Entire home/apt,1,2,2,14,203
+4962043,House,Private room,1,1,1,8,109
+4965866,Guest suite,Entire home/apt,1,1,30,4,156
+4987668,Condominium,Private room,1,1,1,15,121
+4993804,House,Entire home/apt,4.5,5,3,1,775
+5004303,Apartment,Entire home/apt,1,1,30,9,148
+5007358,Apartment,Private room,1,1,1,4,156
+5013816,House,Private room,1,1,1,3,139
+5019863,Apartment,Private room,1,1,30,11,160
+5025420,Apartment,Private room,1,1,30,4,100
+5027016,Apartment,Entire home/apt,1,0,30,2,90
+5031525,Guest suite,Entire home/apt,1,1,30,4,200
+5031660,Apartment,Private room,1,1,30,6,120
+5039206,Condominium,Entire home/apt,1,1,30,11,192
+5045601,House,Entire home/apt,1,1,31,12,175
+5068486,Apartment,Entire home/apt,1.5,2,3,10,183
+5070945,Apartment,Private room,1,1,1,8,59
+5070973,Apartment,Private room,1,1,1,1,89
+5076251,Apartment,Entire home/apt,1,1,30,7,100
+5086367,Apartment,Private room,1,1,90,15,93
+5094146,Apartment,Private room,1,1,2,11,65
+5114942,Boutique hotel,Private room,1,0,2,1,350
+5117701,Apartment,Entire home/apt,1,1,30,6,269
+5126076,Condominium,Entire home/apt,2,1,5,15,350
+5144482,Guest suite,Entire home/apt,1,1,30,12,139
+5151423,House,Private room,1,1,2,14,144
+5154227,House,Entire home/apt,2,4,3,12,575
+5154242,Apartment,Private room,1,1,30,12,50
+5154367,House,Private room,2,1,1,7,80
+5162669,House,Private room,1,1,2,7,90
+5172959,Apartment,Private room,1,1,30,2,150
+5173043,Serviced apartment,Private room,1,1,2,8,252
+5174935,House,Entire home/apt,1.5,1,2,15,185
+5180749,Apartment,Entire home/apt,1,1,30,1,99
+5193689,House,Private room,1,1,3,5,200
+5194736,House,Entire home/apt,2.5,2,4,5,525
+5195922,House,Private room,1,1,30,6,56
+5196070,House,Private room,1,1,30,5,50
+5196116,House,Private room,1,1,30,9,50
+5196233,House,Entire home/apt,1,0,30,15,50
+5196399,Hostel,Shared room,2,1,2,15,55
+5202841,Guest suite,Entire home/apt,1,1,30,12,250
+5212418,Apartment,Entire home/apt,1,1,30,1,200
+5212469,Condominium,Entire home/apt,2,2,120,6,190
+5217164,Guest suite,Private room,1,1,2,7,118
+5222044,Apartment,Entire home/apt,2,2,5,1,250
+5242394,Apartment,Entire home/apt,1,1,2,13,150
+5253001,Condominium,Entire home/apt,1,1,30,15,200
+5253439,Hostel,Shared room,2,1,30,14,33
+5272750,Bed and breakfast,Private room,10,1,1,13,99
+5286047,Apartment,Entire home/apt,1,1,2,8,240
+5286779,Apartment,Private room,1,1,30,6,55
+5286782,Apartment,Private room,1,1,30,4,59
+5299461,Hostel,Shared room,2,1,2,15,55
+5299538,Hostel,Shared room,2,1,30,11,33
+5309546,Condominium,Entire home/apt,1.5,3,30,5,200
+5317789,Apartment,Entire home/apt,1,2,1,13,200
+5318758,Apartment,Private room,1,1,2,5,99
+5319588,House,Private room,1,1,2,3,99
+5320351,Apartment,Private room,1.5,1,30,6,80
+5325355,Guest suite,Entire home/apt,1.5,1,2,11,200
+5327231,Condominium,Entire home/apt,2,3,7,10,450
+5345792,Apartment,Private room,1,1,3,12,165
+5346803,Apartment,Entire home/apt,1,1,7,9,195
+5376278,Apartment,Private room,1.5,1,30,11,90
+5394755,House,Private room,1,1,4,10,89
+5405637,Serviced apartment,Hotel room,1,1,30,14,189
+5406893,Condominium,Entire home/apt,2,3,30,10,288
+5433133,Condominium,Entire home/apt,2,3,30,7,350
+5436115,Apartment,Private room,1,1,30,11,85
+5443493,Condominium,Entire home/apt,1,1,3,4,400
+5468835,Apartment,Shared room,1,1,1,7,60
+5480795,Hotel,Private room,1,1,1,10,129
+5500218,Apartment,Entire home/apt,1,2,1,10,135
+5505643,Apartment,Entire home/apt,2,2,30,8,260
+5537718,House,Entire home/apt,2.5,4,5,8,350
+5547500,House,Private room,1,1,1,14,124
+5548977,Apartment,Entire home/apt,1,0,2,15,178
+5550248,House,Private room,1,1,1,11,80
+5557316,Apartment,Entire home/apt,2.5,2,31,9,180
+5558933,Apartment,Entire home/apt,1,1,30,2,141
+5559608,Apartment,Private room,1,1,2,12,185
+5560256,Apartment,Private room,1,1,30,5,195
+5572169,House,Private room,1,1,1,14,169
+5577516,Guest suite,Entire home/apt,1,2,30,1,135
+5581254,Guest suite,Entire home/apt,2,2,3,6,155
+5591544,Apartment,Entire home/apt,1.5,2,2,2,250
+5592637,Apartment,Entire home/apt,1,2,30,14,154
+5592675,Apartment,Entire home/apt,1,1,30,7,125
+5592754,Apartment,Entire home/apt,2,2,30,13,283
+5615061,Condominium,Entire home/apt,1,2,2,9,1000
+5616609,House,Private room,1,1,1,10,141
+5617847,House,Private room,1.5,1,3,14,125
+5631995,Apartment,Private room,1.5,1,1,2,139
+5632275,Apartment,Entire home/apt,1,1,30,14,165
+5632452,House,Entire home/apt,1,1,1,6,150
+5632672,Apartment,Private room,2.5,4,30,10,400
+5666413,Apartment,Entire home/apt,1,0,30,12,110
+5666454,Apartment,Entire home/apt,1,0,30,2,110
+5696895,Apartment,Entire home/apt,1,2,31,4,66
+5697110,Apartment,Entire home/apt,1,1,30,6,200
+5749181,Apartment,Entire home/apt,1,0,2,3,215
+5749839,House,Entire home/apt,1,1,1,8,140
+5774490,Guest suite,Private room,1,1,2,8,120
+5785978,House,Private room,1,1,2,12,80
+5788099,Apartment,Entire home/apt,2,3,2,2,625
+5804060,Apartment,Entire home/apt,1,1,30,10,125
+5821380,Apartment,Entire home/apt,1,2,30,12,350
+5849626,Apartment,Entire home/apt,1,0,3,3,250
+5852066,Apartment,Private room,1,1,2,3,144
+5853587,House,Private room,1,1,5,12,60
+5858973,House,Entire home/apt,3,3,30,1,520
+5861266,House,Private room,1,1,2,12,200
+5863674,Guest suite,Private room,1,1,2,3,200
+5871250,Hostel,Shared room,2,1,30,15,79
+5882524,House,Entire home/apt,2,3,3,6,250
+5884735,Condominium,Private room,1,1,3,15,80
+5891594,Apartment,Entire home/apt,1,3,30,10,235
+5904304,Apartment,Private room,1,1,3,11,99
+5904305,Apartment,Private room,1,1,3,6,79
+5905163,Apartment,Private room,1,1,30,1,60
+5905530,Condominium,Private room,1,1,6,2,75
+5918090,House,Entire home/apt,1,2,2,8,275
+5918432,Condominium,Entire home/apt,1.5,3,55,14,130
+5919500,Apartment,Entire home/apt,1,1,1,8,279
+5932678,Apartment,Entire home/apt,1,1,30,3,249
+5933430,Apartment,Entire home/apt,1,3,2,9,500
+5944921,Apartment,Private room,1,1,3,14,95
+5944989,Condominium,Entire home/apt,2.5,2,1,1,1300
+5945396,Serviced apartment,Entire home/apt,3.5,3,1,12,1252
+5945605,Apartment,Entire home/apt,2.5,2,2,12,1465
+5945812,Serviced apartment,Entire home/apt,1.5,1,1,15,975
+5970639,House,Entire home/apt,1,1,30,13,109
+5980039,House,Entire home/apt,1.5,1,5,4,270
+5990171,Apartment,Entire home/apt,1,3,30,3,235
+5998790,Townhouse,Private room,1,1,1,12,80
+6006021,Condominium,Entire home/apt,1.5,2,30,15,280
+6006768,Guest suite,Entire home/apt,1,1,3,7,140
+6007925,Condominium,Entire home/apt,1,2,5,1,350
+6015077,Apartment,Entire home/apt,2,3,30,12,199
+6016647,Guest suite,Private room,1,1,3,8,150
+6020579,House,Entire home/apt,2,4,5,5,233
+6042966,House,Entire home/apt,1,3,3,5,375
+6072316,House,Entire home/apt,2,4,3,3,600
+6072767,Guest suite,Entire home/apt,1,1,2,12,200
+6074750,House,Private room,1,1,2,11,156
+6080799,Apartment,Entire home/apt,1,1,2,2,95
+6090316,House,Entire home/apt,2,2,30,13,200
+6091945,House,Private room,1,1,3,10,90
+6092049,Guest suite,Entire home/apt,1,1,1,9,268
+6092596,Guest suite,Entire home/apt,1,1,1,7,174
+6103791,House,Private room,1,1,1,7,79
+6107258,Hotel,Private room,1,1,1,1,209
+6107359,Apartment,Entire home/apt,1,2,2,11,299
+6108439,House,Entire home/apt,1,2,3,12,245
+6117147,Guest suite,Entire home/apt,1,1,2,8,135
+6119086,Guest suite,Entire home/apt,1,1,30,2,125
+6119683,Apartment,Private room,1,1,4,4,199
+6120540,House,Private room,0,1,1,6,49
+6132191,Condominium,Entire home/apt,3,3,1,2,499
+6134800,Apartment,Entire home/apt,3,2,2,3,300
+6145605,Apartment,Entire home/apt,1,0,2,2,150
+6156195,Apartment,Entire home/apt,1,1,30,5,249
+6163821,House,Private room,1,1,1,11,146
+6168622,Loft,Entire home/apt,2,1,30,4,300
+6169292,Hotel,Private room,1,1,1,4,129
+6181182,Apartment,Entire home/apt,1,1,30,7,229
+6188428,Hotel,Private room,1,2,2,6,688
+6195258,House,Entire home/apt,1,2,2,13,250
+6214853,Apartment,Entire home/apt,1,1,30,9,110
+6224858,House,Entire home/apt,1.5,3,4,6,450
+6238514,Apartment,Entire home/apt,1,2,1,8,350
+6245649,Apartment,Entire home/apt,1,1,30,3,98
+6257770,Apartment,Entire home/apt,1,2,30,8,255
+6261638,Apartment,Entire home/apt,2,2,30,1,173
+6272183,Apartment,Entire home/apt,1,1,30,4,85
+6272816,Apartment,Private room,1,1,1,13,125
+6273036,House,Entire home/apt,1,1,3,6,160
+6301675,Apartment,Entire home/apt,1,0,30,5,151
+6316753,House,Private room,2,1,5,13,65
+6324586,Apartment,Entire home/apt,1.5,2,4,1,900
+6326133,Condominium,Entire home/apt,1,1,4,3,225
+6329340,Condominium,Entire home/apt,1,3,30,4,3000
+6329731,Condominium,Private room,1,1,30,1,180
+6331695,Apartment,Entire home/apt,1,1,1,15,196
+6335352,House,Entire home/apt,2.5,3,3,2,500
+6336315,Condominium,Private room,1,1,2,6,240
+6338562,House,Private room,1,1,140,8,200
+6344096,House,Private room,1,1,30,5,99
+6344500,Condominium,Entire home/apt,1,1,2,14,250
+6348742,House,Entire home/apt,1,1,30,8,125
+6360976,Apartment,Entire home/apt,1.5,2,30,13,200
+6364873,Condominium,Entire home/apt,1,2,5,10,342
+6365190,Apartment,Private room,1,1,30,8,89
+6365956,House,Private room,1,1,1,2,129
+6373849,Apartment,Entire home/apt,1,1,30,6,116
+6374167,House,Private room,1,1,7,11,80
+6376338,House,Entire home/apt,3,4,3,4,680
+6378495,Loft,Private room,1,1,30,2,89
+6387526,House,Entire home/apt,2.5,3,30,15,325
+6402782,Condominium,Entire home/apt,1,2,4,2,185
+6415052,Condominium,Entire home/apt,2,3,5,2,370
+6423158,Apartment,Entire home/apt,1,0,2,8,139
+6430646,House,Private room,1,1,2,15,120
+6437010,Apartment,Private room,1.5,1,4,6,91
+6448545,Apartment,Entire home/apt,2,3,30,5,300
+6453006,House,Private room,1,1,3,13,135
+6453774,Condominium,Entire home/apt,1,0,1,5,249
+6464280,Condominium,Entire home/apt,2,3,2,1,450
+6481492,Condominium,Entire home/apt,1,2,4,13,349
+6494663,House,Private room,1,1,1,10,84
+6505426,Guest suite,Entire home/apt,1,1,2,10,200
+6512986,House,Entire home/apt,1,2,30,1,250
+6514826,Condominium,Entire home/apt,1,2,3,10,265
+6516295,Loft,Entire home/apt,1.5,1,30,13,250
+6518261,Apartment,Entire home/apt,1,2,5,4,169
+6522477,House,Private room,1,1,4,14,300
+6523507,Cottage,Entire home/apt,1,0,4,14,265
+6526129,Apartment,Entire home/apt,1,0,30,6,129
+6526344,Apartment,Private room,1,1,60,5,50
+6529234,Loft,Entire home/apt,1,0,5,3,114
+6544530,Apartment,Entire home/apt,2.5,2,3,12,399
+6552586,Apartment,Private room,1,1,30,1,70
+6557736,House,Private room,1,1,1,5,75
+6560870,Apartment,Entire home/apt,1,1,3,6,135
+6587558,Apartment,Private room,1,1,30,8,60
+6591087,Loft,Private room,1.5,1,30,10,375
+6591405,Apartment,Entire home/apt,2.5,2,30,10,380
+6600081,House,Private room,1,1,3,6,95
+6601749,Apartment,Entire home/apt,1,1,30,2,74
+6604564,Townhouse,Entire home/apt,1,2,1,14,350
+6604799,Townhouse,Private room,1,1,1,7,160
+6609412,House,Entire home/apt,2,4,1,14,1000
+6627450,Apartment,Entire home/apt,2.5,3,30,1,300
+6628985,Condominium,Private room,1,1,2,12,109
+6629798,House,Private room,1,1,2,2,120
+6643496,House,Private room,1,1,5,5,150
+6648062,House,Private room,1,1,3,9,110
+6649234,Condominium,Entire home/apt,1,0,1,15,259
+6653474,Guest suite,Entire home/apt,1,1,2,9,149
+6662128,Apartment,Private room,2,1,30,9,66
+6662231,Apartment,Private room,2,1,30,15,68
+6684182,House,Entire home/apt,1.5,3,3,9,295
+6688004,House,Private room,1,1,3,9,105
+6691495,House,Private room,1,1,30,11,80
+6701045,Condominium,Entire home/apt,1,2,30,2,370
+6713990,Condominium,Entire home/apt,1,1,14,11,150
+6715383,Apartment,Entire home/apt,1,1,30,8,105
+6716133,Apartment,Entire home/apt,1,0,30,12,100
+6727254,Apartment,Private room,1.5,1,30,13,105
+6730473,Apartment,Entire home/apt,1,1,30,9,88
+6747672,Apartment,Entire home/apt,1,1,30,13,219
+6748645,House,Entire home/apt,2,3,4,9,350
+6749412,Apartment,Entire home/apt,1,1,1,11,300
+6782479,House,Entire home/apt,1,1,3,10,300
+6793767,Apartment,Entire home/apt,1,0,31,1,99
+6796392,House,Entire home/apt,1,2,30,8,185
+6798145,Townhouse,Entire home/apt,1.5,2,31,15,110
+6800168,Apartment,Entire home/apt,1,3,3,4,190
+6822070,House,Entire home/apt,1,1,1,12,159
+6822748,Apartment,Entire home/apt,1,1,30,7,260
+6835302,Apartment,Entire home/apt,1,1,30,9,240
+6835462,Condominium,Entire home/apt,1,1,30,7,252
+6836411,Condominium,Entire home/apt,1,0,1,1,249
+6836785,Apartment,Entire home/apt,1,0,1,7,193
+6836928,Loft,Entire home/apt,2.5,3,30,2,1000
+6864929,House,Entire home/apt,4,4,7,2,710
+6870420,House,Entire home/apt,3,4,5,12,1000
+6883183,Serviced apartment,Entire home/apt,1,1,2,15,195
+6885422,House,Entire home/apt,2,4,4,5,399
+6887043,Apartment,Entire home/apt,1,1,30,4,150
+6887081,Condominium,Entire home/apt,1,2,3,15,350
+6898334,Apartment,Entire home/apt,1,1,30,3,220
+6911587,Apartment,Private room,1,1,2,14,100
+6913294,House,Private room,1,1,1,1,90
+6915497,House,Entire home/apt,1.5,3,3,12,400
+6922612,Condominium,Entire home/apt,1,1,5,8,128
+6926901,House,Entire home/apt,2,2,3,1,300
+6934867,House,Entire home/apt,1,3,30,12,219
+6934874,House,Entire home/apt,1,2,30,3,157
+6936417,House,Entire home/apt,1,1,3,14,265
+6938818,House,Private room,1,1,3,8,75
+6940354,House,Private room,1,1,3,3,99
+6940448,House,Private room,1,1,3,15,80
+6955678,Apartment,Private room,1.5,1,30,5,83
+6957662,Apartment,Entire home/apt,1,1,5,7,225
+6968158,Townhouse,Private room,1,1,3,3,158
+6970746,House,Private room,1,1,2,14,140
+6973383,House,Private room,2,1,5,3,60
+6973631,Apartment,Private room,1,1,2,13,197
+6974259,House,Entire home/apt,1,2,30,5,170
+6975064,Apartment,Entire home/apt,1,1,30,14,100
+6985131,Guest suite,Entire home/apt,1,1,3,2,95
+6993593,House,Private room,1.5,1,1,3,159
+7004802,Apartment,Entire home/apt,1,2,3,2,245
+7007759,House,Private room,1,1,7,7,219
+7009654,House,Private room,1,1,2,12,75
+7009791,House,Private room,2,1,3,8,125
+7009809,House,Entire home/apt,2.5,3,30,9,190
+7012313,House,Private room,1,1,30,6,93
+7020637,Condominium,Entire home/apt,1,1,1,10,150
+7022309,Condominium,Private room,1.5,1,2,13,88
+7026287,Guest suite,Private room,1,1,2,9,125
+7027139,Apartment,Private room,1,1,3,14,190
+7028127,Apartment,Entire home/apt,1,4,5,7,250
+7034114,Condominium,Private room,1.5,1,3,5,115
+7035672,Guest suite,Entire home/apt,1,0,2,9,179
+7038488,House,Entire home/apt,2,3,6,4,240
+7054235,House,Private room,1,1,3,3,99
+7065335,House,Entire home/apt,1,2,2,7,174
+7065694,House,Entire home/apt,1,2,30,13,350
+7067087,Bed and breakfast,Shared room,10,1,1,15,38
+7067681,Bed and breakfast,Shared room,10,1,1,10,38
+7068804,House,Private room,1,1,2,4,53
+7072662,Apartment,Entire home/apt,1,0,90,15,132
+7093018,Apartment,Private room,1,1,30,3,50
+7111861,House,Entire home/apt,4.5,3,3,14,1000
+7140740,House,Private room,1,1,3,4,129
+7143032,Apartment,Private room,1,1,1,3,110
+7146663,Condominium,Entire home/apt,1,0,3,11,449
+7162627,Apartment,Entire home/apt,1,1,30,2,120
+7178670,Apartment,Private room,1,1,1,1,239
+7180020,Loft,Entire home/apt,1.5,1,4,13,269
+7181279,Guest suite,Entire home/apt,1,0,2,13,125
+7181655,House,Entire home/apt,3.5,4,3,4,875
+7182761,Apartment,Private room,1,1,3,7,130
+7196412,House,Private room,1,1,30,8,130
+7202063,Condominium,Entire home/apt,1,1,30,8,249
+7204761,Condominium,Entire home/apt,1,3,3,4,320
+7217193,Apartment,Entire home/apt,1,1,2,6,295
+7220035,Apartment,Entire home/apt,1,1,2,7,140
+7222704,Guest suite,Entire home/apt,1,1,2,3,109
+7226841,Apartment,Private room,1,1,30,15,116
+7227605,Apartment,Entire home/apt,1.5,3,30,2,750
+7227859,House,Private room,1,1,30,13,119
+7227910,Condominium,Entire home/apt,4.5,5,5,4,975
+7228563,House,Entire home/apt,2.5,3,7,10,400
+7247351,Guesthouse,Entire home/apt,1,1,2,7,125
+7247746,House,Private room,1,1,2,11,95
+7259606,House,Private room,2,1,2,11,60
+7259880,House,Private room,2,1,2,11,75
+7275084,House,Private room,1,1,2,8,115
+7281346,House,Entire home/apt,2,3,4,1,300
+7290262,Condominium,Private room,1.5,1,2,6,95
+7292878,House,Entire home/apt,1,1,1,3,155
+7302136,Apartment,Entire home/apt,1,1,28,4,99
+7309811,Loft,Entire home/apt,1,1,2,8,280
+7309852,Apartment,Entire home/apt,1,2,3,3,179
+7323097,Guest suite,Entire home/apt,1,2,30,15,120
+7327920,Apartment,Entire home/apt,1,1,3,8,238
+7329639,House,Private room,1,1,30,4,92
+7331464,Guest suite,Entire home/apt,1,2,2,10,250
+7340055,Apartment,Private room,1,1,3,4,200
+7341076,House,Private room,1,1,2,9,90
+7342996,House,Private room,1,1,4,5,210
+7343245,Townhouse,Entire home/apt,2,4,3,9,900
+7343277,Hostel,Shared room,10,1,1,2,38
+7344289,Apartment,Entire home/apt,1,2,1,15,400
+7345170,House,Private room,1,1,4,10,210
+7345468,Guest suite,Entire home/apt,1,0,3,1,220
+7348398,House,Private room,1,1,2,10,125
+7360699,House,Entire home/apt,1,2,30,15,140
+7367530,Apartment,Private room,1,1,1,9,110
+7386838,Loft,Entire home/apt,2.5,3,2,4,750
+7389541,House,Entire home/apt,1,1,2,15,250
+7393518,Guest suite,Entire home/apt,1,0,2,5,199
+7402986,House,Entire home/apt,2,3,2,11,275
+7404181,Condominium,Entire home/apt,2,3,30,6,475
+7437925,Townhouse,Private room,2,1,30,2,125
+7439398,Apartment,Entire home/apt,1,1,30,6,339
+7459197,House,Entire home/apt,2.5,3,2,4,565
+7459988,Condominium,Entire home/apt,1,2,30,1,193
+7478631,Guest suite,Entire home/apt,1,0,30,15,95
+7483031,House,Entire home/apt,1,2,3,7,148
+7493513,Apartment,Entire home/apt,1,1,30,8,218
+7493861,Apartment,Entire home/apt,1,1,30,7,232
+7499793,House,Private room,1,1,2,7,130
+7514742,Guest suite,Private room,1,1,2,14,114
+7544803,House,Entire home/apt,1,3,3,14,400
+7547105,Condominium,Entire home/apt,1,1,3,5,128
+7548762,Apartment,Private room,1,1,1,9,110
+7549488,Condominium,Entire home/apt,2.5,4,2,13,475
+7558236,House,Entire home/apt,3.5,5,3,6,1025
+7562249,Apartment,Entire home/apt,1,1,30,1,185
+7562547,Guest suite,Entire home/apt,1,1,2,12,375
+7564371,Apartment,Entire home/apt,1,2,3,1,300
+7596529,House,Entire home/apt,2,3,3,12,625
+7602795,Apartment,Entire home/apt,1,2,30,6,135
+7612118,House,Entire home/apt,1,1,3,1,262
+7618503,Condominium,Entire home/apt,1,1,30,4,200
+7618833,Apartment,Entire home/apt,1,2,30,10,160
+7637533,Loft,Shared room,1.5,1,30,7,45
+7665362,Loft,Entire home/apt,2.5,2,2,2,700
+7666482,Apartment,Entire home/apt,2,2,31,10,145
+7676566,House,Entire home/apt,2,3,2,8,599
+7680348,Apartment,Private room,1,1,2,8,199
+7681228,Apartment,Entire home/apt,1,0,31,4,150
+7689528,Condominium,Private room,1,1,2,1,188
+7695697,Loft,Private room,1,1,30,11,65
+7696468,Apartment,Entire home/apt,1,1,3,7,250
+7697503,House,Private room,2,1,1,13,80
+7699276,Apartment,Private room,1,2,2,5,175
+7699710,House,Entire home/apt,2.5,3,3,13,450
+7701360,House,Entire home/apt,3.5,3,3,4,995
+7715542,Guest suite,Private room,1,1,1,11,170
+7715861,Serviced apartment,Entire home/apt,2.5,2,1,5,1300
+7718075,Apartment,Private room,2,1,2,7,110
+7726184,Apartment,Entire home/apt,1.5,2,2,11,275
+7729217,Condominium,Private room,1,1,1,9,170
+7754018,Condominium,Entire home/apt,1,0,1,7,269
+7764531,Apartment,Entire home/apt,1,2,2,6,397
+7785897,Guest suite,Entire home/apt,1,1,1,10,95
+7788844,Apartment,Entire home/apt,2,3,2,6,228
+7805578,House,Entire home/apt,1,1,5,1,299
+7808104,Condominium,Entire home/apt,1,2,3,8,220
+7810254,Condominium,Entire home/apt,1.5,2,4,6,320
+7823272,Apartment,Entire home/apt,1,1,2,8,145
+7825894,Apartment,Entire home/apt,1,0,30,5,80
+7840831,Condominium,Entire home/apt,1,2,3,1,550
+7841744,Condominium,Entire home/apt,2,1,3,2,265
+7842771,House,Entire home/apt,2,3,30,1,217
+7844031,Condominium,Entire home/apt,1.5,1,30,1,260
+7854509,Apartment,Entire home/apt,1,2,3,12,175
+7856443,Apartment,Entire home/apt,2.5,3,3,8,400
+7859448,Apartment,Private room,2.5,2,30,6,180
+7870535,Apartment,Entire home/apt,1,2,30,15,210
+7873804,Apartment,Private room,1.5,1,4,1,400
+7884875,House,Entire home/apt,2,2,5,5,370
+7886634,Apartment,Entire home/apt,1,0,3,1,125
+7896925,House,Entire home/apt,1,1,4,3,400
+7897391,Hotel,Private room,1,0,2,13,180
+7899085,Apartment,Entire home/apt,1,1,2,10,140
+7902505,Guest suite,Entire home/apt,1,0,3,11,150
+7902889,Loft,Shared room,1,1,30,8,90
+7903768,Apartment,Private room,1,1,60,12,100
+7922690,House,Private room,1,1,2,9,100
+7923146,Apartment,Entire home/apt,1,2,2,15,390
+7930461,Guest suite,Private room,1,1,2,11,109
+7930685,Townhouse,Entire home/apt,1,2,2,6,250
+7931074,Apartment,Entire home/apt,1,1,30,12,185
+7933407,House,Entire home/apt,1,2,2,1,225
+7933558,Apartment,Private room,1,1,30,2,49
+7933807,House,Private room,2,2,2,13,200
+7939511,House,Private room,1,1,2,5,95
+7949624,House,Private room,1,1,1,1,127
+7949668,House,Private room,1,1,1,12,132
+7950946,House,Entire home/apt,1,2,2,9,350
+7958214,Hotel,Private room,1,0,2,2,180
+7958278,Hotel,Private room,1,0,2,14,180
+7958316,Hotel,Private room,1,0,2,12,180
+7958349,Hotel,Private room,1,0,2,2,180
+7963103,Condominium,Entire home/apt,1,0,1,13,269
+7968598,Apartment,Entire home/apt,1,1,3,3,220
+7968749,Apartment,Entire home/apt,1.5,2,2,1,640
+7972067,Apartment,Entire home/apt,1,1,2,4,155
+7973781,House,Entire home/apt,1,2,30,6,255
+7975011,Apartment,Private room,1,1,30,12,69
+7982082,House,Entire home/apt,1,2,3,5,450
+7989636,Condominium,Private room,1,1,3,11,140
+7998215,House,Private room,1,1,1,8,173
+8005452,Apartment,Entire home/apt,1.5,2,30,6,165
+8018902,House,Private room,0,1,30,8,70
+8030646,House,Private room,2,1,1,15,99
+8033268,Hotel,Private room,1,0,2,8,180
+8033975,Hotel,Private room,1,0,2,9,180
+8035001,House,Entire home/apt,1,1,1,10,150
+8041262,Condominium,Entire home/apt,2,4,3,5,495
+8048653,House,Private room,1,1,2,14,120
+8049455,Apartment,Entire home/apt,1,1,7,7,175
+8051735,Townhouse,Entire home/apt,1,3,30,14,162
+8053481,Condominium,Entire home/apt,3,3,2,1,250
+8053887,Apartment,Entire home/apt,1,1,30,1,185
+8055632,Guest suite,Private room,1,1,2,11,120
+8061617,Apartment,Entire home/apt,1,1,30,5,299
+8066789,Apartment,Private room,2,1,1125,11,3200
+8068539,Apartment,Entire home/apt,2,3,30,11,199
+8082364,Apartment,Entire home/apt,1,2,30,10,170
+8084285,Hotel,Private room,1,0,2,1,190
+8084290,Hotel,Private room,1,0,2,9,190
+8085920,House,Private room,1,1,30,1,129
+8086877,Apartment,Entire home/apt,1,1,30,7,272
+8089051,Hotel,Private room,1,0,2,8,250
+8090484,Apartment,Entire home/apt,1,1,30,4,100
+8101297,Apartment,Private room,1.5,1,2,12,149
+8101619,House,Entire home/apt,2,3,1,2,250
+8102262,House,Private room,1,1,30,7,56
+8105804,Apartment,Entire home/apt,2,2,30,3,301
+8105974,Apartment,Entire home/apt,2,2,3,4,358
+8117174,House,Entire home/apt,1,2,4,5,299
+8117667,House,Private room,1,1,3,4,139
+8119395,House,Entire home/apt,4.5,6,2,3,2000
+8125277,House,Entire home/apt,2.5,5,30,8,365
+8151772,House,Private room,1.5,1,30,11,83
+8151839,House,Private room,1.5,1,30,8,70
+8151907,House,Private room,1.5,1,30,9,70
+8151934,House,Private room,1.5,1,30,7,75
+8151985,Apartment,Entire home/apt,1,1,4,14,225
+8152867,House,Private room,1,1,2,8,99
+8155106,Condominium,Private room,1,1,1,6,175
+8155586,House,Private room,3,4,3,15,410
+8159544,Townhouse,Private room,1,1,13,10,200
+8164773,Apartment,Entire home/apt,1,1,30,13,210
+8167459,House,Private room,1,1,2,1,133
+8172628,Apartment,Private room,1.5,1,3,5,140
+8187584,Guest suite,Entire home/apt,1,1,1,2,146
+8192881,Guest suite,Entire home/apt,1,1,2,2,150
+8195090,Other,Entire home/apt,1,0,2,12,135
+8195144,House,Private room,1,1,2,10,135
+8202578,Condominium,Entire home/apt,1,0,1,15,249
+8207665,House,Private room,1,2,2,14,204
+8208052,Condominium,Entire home/apt,1,1,60,1,129
+8209055,Apartment,Entire home/apt,1,0,3,11,150
+8209591,Apartment,Private room,1,1,30,3,39
+8221207,Guest suite,Private room,1,1,30,2,140
+8241198,House,Entire home/apt,2,2,1,1,350
+8255072,House,Private room,1,1,2,13,105
+8270952,Bungalow,Entire home/apt,1,1,30,7,130
+8272458,Apartment,Entire home/apt,1,1,2,13,259
+8274904,House,Private room,1,1,2,10,120
+8275596,House,Private room,1,1,3,5,104
+8276309,Condominium,Private room,1,1,1,14,95
+8277718,House,Private room,1,1,1,13,90
+8287266,House,Private room,1,1,2,11,150
+8290464,Guest suite,Entire home/apt,1,1,2,7,185
+8308630,House,Private room,1,1,4,2,89
+8328410,Apartment,Entire home/apt,1,0,30,8,149
+8336042,Guesthouse,Entire home/apt,1,0,2,4,165
+8336228,Guest suite,Entire home/apt,2,2,3,9,250
+8336617,Apartment,Entire home/apt,1,1,30,4,110
+8338986,Apartment,Entire home/apt,1,1,30,10,255
+8340498,Apartment,Entire home/apt,1,0,31,13,176
+8342838,Apartment,Private room,1,1,180,15,100
+8351923,Guest suite,Entire home/apt,1,0,30,2,99
+8352275,Hotel,Private room,1,1,1,1,129
+8356380,Guest suite,Private room,1,1,1,5,98
+8382187,House,Entire home/apt,1,1,1,7,100
+8411606,House,Private room,1,1,2,4,135
+8418067,House,Entire home/apt,3,3,30,6,293
+8422161,Condominium,Entire home/apt,1,1,30,5,501
+8438267,Apartment,Entire home/apt,1,2,3,12,195
+8441614,Apartment,Entire home/apt,1,1,30,12,350
+8456859,Guest suite,Entire home/apt,1,1,30,10,150
+8459807,House,Private room,1,3,4,14,220
+8461190,Apartment,Entire home/apt,1,2,30,8,139
+8464365,Condominium,Private room,2,1,2,14,95
+8472083,Guest suite,Private room,1,1,3,7,170
+8472666,Apartment,Entire home/apt,1,2,2,10,250
+8472927,Apartment,Entire home/apt,1,1,4,7,144
+8474183,Apartment,Entire home/apt,1,1,2,15,177
+8474452,Guest suite,Entire home/apt,1,1,2,4,109
+8487735,Apartment,Entire home/apt,1,0,3,3,115
+8489712,Condominium,Entire home/apt,1,0,30,14,110
+8499631,Guest suite,Entire home/apt,1,0,2,15,260
+8500048,Apartment,Entire home/apt,1,1,30,1,159
+8501670,Condominium,Entire home/apt,1,1,30,11,246
+8520295,Apartment,Entire home/apt,1,0,30,13,129
+8524982,Townhouse,Entire home/apt,1,1,3,2,205
+8542873,Apartment,Entire home/apt,1,1,30,2,138
+8554141,Apartment,Private room,1,1,1,2,110
+8556635,House,Entire home/apt,2,3,30,10,186
+8564563,Apartment,Entire home/apt,1,2,2,9,220
+8565105,Apartment,Private room,1,1,1,15,110
+8568826,House,Private room,1,1,3,8,95
+8576907,House,Entire home/apt,3,4,5,5,599
+8578964,Loft,Entire home/apt,2,2,30,8,550
+8584000,Apartment,Entire home/apt,1,1,30,10,250
+8590211,Condominium,Entire home/apt,3,3,30,4,270
+8591098,House,Entire home/apt,2.5,3,3,10,1000
+8592609,Loft,Entire home/apt,1,1,30,5,140
+8595304,House,Private room,1,1,2,4,225
+8597021,House,Private room,1,1,2,1,103
+8612967,Apartment,Entire home/apt,2,3,3,9,499
+8646903,House,Entire home/apt,1,1,30,13,220
+8653346,Condominium,Entire home/apt,1,1,2,11,200
+8655125,House,Entire home/apt,4,4,4,3,360
+8684508,Apartment,Private room,1,1,1,5,110
+8685570,Apartment,Private room,1,1,1,3,110
+8685652,Apartment,Private room,1,1,1,5,110
+8685716,Apartment,Private room,1,1,1,14,110
+8685766,Apartment,Private room,1,1,1,12,89
+8685898,Apartment,Private room,1,1,1,1,40
+8701367,Apartment,Entire home/apt,1,2,5,5,187
+8713608,Apartment,Shared room,1,1,30,10,200
+8717641,Apartment,Entire home/apt,1,1,4,13,185
+8722927,Apartment,Private room,1,1,30,14,69
+8733261,House,Private room,1,1,1,7,69
+8735636,Apartment,Entire home/apt,1,2,30,12,550
+8760949,Apartment,Entire home/apt,1,2,4,13,330
+8762967,Guest suite,Entire home/apt,1,1,2,4,160
+8763366,Hostel,Shared room,2,1,2,2,55
+8763407,Hostel,Shared room,2,1,2,15,55
+8763529,Hostel,Shared room,2,1,2,7,55
+8763620,Hostel,Shared room,2,1,30,8,33
+8775500,House,Private room,1,1,1,10,150
+8793569,House,Private room,1,1,2,15,120
+8794180,Serviced apartment,Hotel room,1.5,1,30,13,188
+8799100,House,Entire home/apt,1,3,3,11,435
+8800012,Condominium,Entire home/apt,2,0,1,10,540
+8817059,House,Entire home/apt,3.5,3,3,11,450
+8818098,Apartment,Entire home/apt,2,1,365,13,160
+8848449,Apartment,Entire home/apt,1,1,3,15,120
+8859249,Guest suite,Entire home/apt,1,1,2,13,150
+8864274,House,Entire home/apt,4,6,4,3,1200
+8869066,Guest suite,Entire home/apt,1,1,30,12,190
+8869806,Condominium,Entire home/apt,1,1,2,3,155
+8886022,Apartment,Entire home/apt,1,0,30,13,119
+8889145,Condominium,Private room,1,1,1,14,124
+8903225,Apartment,Entire home/apt,1,1,30,2,279
+8904047,Apartment,Entire home/apt,1,1,2,14,155
+8907289,Townhouse,Private room,1,1,1,3,144
+8908249,Apartment,Entire home/apt,1,0,30,4,90
+8914789,Apartment,Entire home/apt,1,1,30,8,229
+8915995,Apartment,Entire home/apt,2,2,30,7,299
+8916368,Apartment,Entire home/apt,1,1,30,1,229
+8925997,Apartment,Entire home/apt,2,2,30,7,310
+8926024,Apartment,Entire home/apt,1,2,30,11,270
+8926150,Apartment,Entire home/apt,1,1,30,15,145
+8941317,Condominium,Entire home/apt,3,3,1,11,429
+8943055,Apartment,Private room,1,1,1,9,189
+8955959,Condominium,Private room,1,1,1,9,125
+8974563,House,Private room,1,1,2,8,90
+8987674,House,Private room,1,1,4,4,186
+8992582,Apartment,Private room,1,1,30,8,53
+8993289,Hotel,Private room,1,0,2,15,180
+8993301,Hotel,Private room,1,0,2,1,180
+8993307,Hotel,Private room,1,0,2,9,180
+9010937,Apartment,Entire home/apt,2,2,2,1,312
+9021715,House,Entire home/apt,1,2,30,12,299
+9051149,Apartment,Private room,1,1,1,9,99
+9051457,House,Entire home/apt,4.5,4,4,5,445
+9059999,Serviced apartment,Hotel room,1,1,30,8,170
+9063798,Townhouse,Private room,1,1,1,2,115
+9067632,House,Entire home/apt,1,1,1,7,76
+9075976,House,Entire home/apt,2,3,2,11,164
+9108108,Apartment,Entire home/apt,1,3,2,8,350
+9110032,House,Private room,1,1,1,1,100
+9110654,House,Entire home/apt,2,4,30,11,495
+9110718,House,Entire home/apt,3.5,4,30,12,350
+9118962,House,Private room,1,1,2,6,100
+9119210,House,Private room,1,1,1,10,100
+9119249,Boutique hotel,Private room,1,1,1,10,140
+9127072,Apartment,Private room,1.5,1,30,10,48
+9130888,Apartment,Entire home/apt,1,2,2,3,95
+9150171,Apartment,Private room,1.5,1,3,14,99
+9150423,Condominium,Private room,1,1,3,11,109
+9150562,House,Private room,1,1,30,12,50
+9150693,Apartment,Private room,2,1,30,12,65
+9156193,Hotel,Private room,1,0,2,4,180
+9157940,Hotel,Private room,1,0,1,15,180
+9186305,Apartment,Private room,1,1,4,10,80
+9187534,House,Private room,2,2,2,2,250
+9188845,Townhouse,Private room,1,1,1,9,75
+9196933,House,Private room,1,1,2,13,125
+9197404,House,Private room,1,1,30,2,165
+9201385,Apartment,Entire home/apt,1,0,4,3,200
+9216997,Apartment,Entire home/apt,1,1,30,8,110
+9231212,Apartment,Entire home/apt,1,0,85,5,110
+9239118,Apartment,Entire home/apt,1,1,30,9,120
+9242011,House,Private room,1,1,30,11,105
+9256506,House,Private room,1,2,3,15,286
+9258941,Apartment,Entire home/apt,2,4,30,15,275
+9259176,Apartment,Entire home/apt,1.5,2,30,9,150
+9261548,Apartment,Entire home/apt,2,3,3,9,400
+9275385,Boutique hotel,Private room,1,1,2,10,144
+9280940,Apartment,Entire home/apt,1,1,30,7,138
+9295965,Guest suite,Private room,1,1,2,12,154
+9296524,Guest suite,Entire home/apt,1,1,1,2,193
+9298491,House,Entire home/apt,1.5,5,30,13,499
+9309449,House,Entire home/apt,2.5,4,2,7,995
+9316584,Boutique hotel,Private room,1,0,2,10,350
+9328077,Apartment,Entire home/apt,2,2,3,9,550
+9346814,House,Private room,1,1,4,2,250
+9347891,Guest suite,Entire home/apt,1,1,3,14,135
+9364688,Condominium,Entire home/apt,1,1,30,4,134
+9402993,Apartment,Entire home/apt,2,3,2,3,550
+9416254,Guest suite,Private room,1,1,2,7,100
+9431997,Apartment,Private room,4,1,30,8,65
+9433478,Apartment,Entire home/apt,1,2,30,8,175
+9435665,House,Private room,1,1,1,12,105
+9440164,Condominium,Entire home/apt,2,2,3,15,225
+9449061,Apartment,Entire home/apt,1,3,30,2,225
+9451291,Serviced apartment,Hotel room,1,2,30,5,189
+9462355,Apartment,Entire home/apt,2,4,30,8,1150
+9463113,Apartment,Private room,1,1,30,12,90
+9464763,Condominium,Entire home/apt,2,2,5,1,1500
+9465008,House,Entire home/apt,2.5,2,3,7,275
+9471413,Condominium,Entire home/apt,2,2,3,9,250
+9471416,House,Private room,1,1,1,8,105
+9476010,Townhouse,Entire home/apt,2,3,2,7,650
+9476849,Condominium,Private room,1,1,1,9,138
+9477823,House,Private room,1,1,2,10,64
+9488665,Apartment,Entire home/apt,2,4,3,9,750
+9489347,Apartment,Entire home/apt,1,1,31,9,180
+9491760,Apartment,Entire home/apt,2,2,30,6,185
+9494726,Bed and breakfast,Private room,10,1,1,3,95
+9495318,Bed and breakfast,Private room,0,1,1,4,95
+9496930,Apartment,Entire home/apt,1,0,30,13,97
+9497588,Bed and breakfast,Private room,10,1,1,4,99
+9504910,Apartment,Entire home/apt,1,1,2,4,195
+9514196,Apartment,Entire home/apt,1,0,4,12,499
+9525734,House,Private room,1,1,2,1,95
+9525911,Apartment,Private room,1,1,2,5,120
+9532943,Apartment,Private room,1,1,1,3,129
+9563163,Apartment,Private room,1,1,31,14,80
+9587361,Guest suite,Entire home/apt,1,1,1,9,300
+9590125,House,Private room,1,1,1,7,129
+9593326,Apartment,Private room,1.5,1,30,14,80
+9593505,Condominium,Entire home/apt,2.5,3,4,5,500
+9605720,Apartment,Entire home/apt,1.5,2,30,15,349
+9608262,Condominium,Entire home/apt,1,2,21,6,168
+9611854,Apartment,Entire home/apt,1,1,30,10,140
+9616042,Loft,Entire home/apt,1,1,30,7,139
+9650878,Townhouse,Private room,1,1,1,13,125
+9652136,House,Entire home/apt,3.5,3,3,15,300
+9683090,Apartment,Entire home/apt,1,0,31,5,140
+9695480,Apartment,Entire home/apt,2,3,2,5,499
+9716652,Apartment,Private room,0.5,1,2,1,85
+9717679,Apartment,Private room,3,1,30,10,60
+9730358,House,Private room,1,1,2,15,160
+9735841,Apartment,Entire home/apt,1,1,30,8,110
+9752333,House,Entire home/apt,1,1,1,9,135
+9752553,Apartment,Entire home/apt,1,1,31,3,300
+9760014,House,Entire home/apt,1,2,3,1,145
+9779327,Apartment,Entire home/apt,2,2,30,6,322
+9779853,Apartment,Private room,1.5,1,31,12,80
+9792467,House,Entire home/apt,2,3,30,7,275
+9837993,Guest suite,Entire home/apt,1,1,3,5,185
+9841955,Apartment,Entire home/apt,1,0,30,4,130
+9844630,Apartment,Private room,1,1,30,9,135
+9882522,Townhouse,Private room,1,1,1,15,97
+9882716,Apartment,Entire home/apt,1,2,2,2,275
+9903046,House,Entire home/apt,4,4,1,8,599
+9905129,House,Entire home/apt,2,3,5,8,500
+9909627,Condominium,Entire home/apt,1,3,30,3,217
+9910056,Apartment,Entire home/apt,1,0,30,3,150
+9924449,Apartment,Entire home/apt,1,2,3,4,165
+9925099,Condominium,Entire home/apt,1.5,2,5,4,299
+9926871,House,Private room,1,1,2,1,70
+9937836,Apartment,Entire home/apt,1.5,2,30,15,168
+9945149,Apartment,Entire home/apt,1,1,30,9,159
+9949873,House,Private room,2,1,30,10,90
+9971053,Condominium,Entire home/apt,2,2,3,9,200
+9972077,Apartment,Entire home/apt,1,1,2,2,150
+9974744,Condominium,Entire home/apt,1,3,30,7,340
+9990865,Apartment,Entire home/apt,2,3,3,15,625
+9995426,Guest suite,Entire home/apt,1,1,3,10,140
+9996121,House,Private room,1,1,1,9,99
+9998508,House,Entire home/apt,2,3,30,6,300
+9998879,House,Entire home/apt,1,2,2,3,220
+10000431,Condominium,Entire home/apt,1,1,30,9,210
+10000523,Condominium,Private room,1,1,30,3,90
+10023678,House,Entire home/apt,2,3,2,9,299
+10035487,Guest suite,Entire home/apt,1,1,3,7,145
+10040637,Apartment,Private room,1.5,1,6,1,133
+10043166,Apartment,Entire home/apt,2,3,2,12,400
+10052512,Apartment,Entire home/apt,2,1,3,4,349
+10058134,Apartment,Entire home/apt,1,2,3,3,350
+10058568,Apartment,Entire home/apt,2,2,3,10,215
+10067187,Boutique hotel,Private room,1,1,5,15,125
+10071349,Apartment,Entire home/apt,1,0,30,10,107
+10071808,Apartment,Entire home/apt,1,0,30,3,107
+10071932,Guesthouse,Entire home/apt,1,1,30,12,110
+10088395,Apartment,Private room,2,1,2,6,133
+10089183,Apartment,Entire home/apt,1,1,3,6,150
+10099733,Boutique hotel,Private room,1,1,3,6,125
+10103881,Condominium,Entire home/apt,2,2,31,9,250
+10105531,Apartment,Entire home/apt,1,1,30,5,100
+10105584,Apartment,Entire home/apt,1,1,4,10,295
+10126146,Townhouse,Entire home/apt,1,1,30,2,195
+10126716,House,Entire home/apt,1.5,4,1,5,500
+10127523,Apartment,Entire home/apt,2,2,30,6,194
+10137578,House,Private room,1,1,1,13,86
+10156101,Boutique hotel,Private room,2,2,1,7,195
+10162904,Apartment,Entire home/apt,1,1,30,7,110
+10164802,Apartment,Entire home/apt,1,0,2,15,195
+10187948,Apartment,Entire home/apt,2,2,30,4,155
+10193457,Apartment,Entire home/apt,1,1,3,6,140
+10199931,House,Entire home/apt,3,3,4,1,715
+10227655,Apartment,Entire home/apt,2,2,3,7,359
+10235526,Loft,Private room,1,1,3,1,179
+10273567,House,Private room,1,1,2,3,126
+10280888,House,Private room,1,1,2,7,69
+10282326,Boutique hotel,Private room,2,1,5,4,279
+10282371,Boutique hotel,Private room,1,1,5,2,279
+10283094,Apartment,Entire home/apt,2,4,30,3,253
+10315192,Apartment,Entire home/apt,1,2,30,8,106
+10321776,Guest suite,Entire home/apt,1,1,1,8,135
+10333567,House,Private room,1,1,2,11,98
+10347570,Loft,Entire home/apt,1,1,4,9,165
+10362654,Condominium,Entire home/apt,3,3,1,5,1500
+10367010,Loft,Private room,1,1,1,12,120
+10369097,House,Entire home/apt,3.5,6,1,10,888
+10369307,House,Entire home/apt,1,2,2,13,167
+10379560,House,Private room,1,1,2,4,99
+10379822,House,Entire home/apt,2.5,4,4,11,899
+10385321,Guest suite,Entire home/apt,1,1,2,12,100
+10385906,Apartment,Entire home/apt,1,2,30,6,127
+10389781,Apartment,Entire home/apt,1.5,2,30,8,180
+10393552,Hotel,Private room,1,0,1,11,235
+10406646,Apartment,Entire home/apt,1,2,30,1,120
+10409218,House,Entire home/apt,2.5,3,3,6,650
+10410858,Condominium,Entire home/apt,3,4,3,6,480
+10418322,House,Private room,1,1,2,5,98
