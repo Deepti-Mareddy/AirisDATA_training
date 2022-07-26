@@ -5,7 +5,8 @@ The schema of the two tables are as follows:
 
 ### **Table : Rental_data**
 
-```id : int
+```
+id : int
 property_type : String
 room_type : String
 bathrooms: float
@@ -16,7 +17,8 @@ price : float
 ```
 
 ### **Table : Location**
-``` id : int
+``` 
+id : int
 city : String 
 state : String
 country : String
